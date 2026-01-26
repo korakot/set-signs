@@ -37,8 +37,12 @@ if __name__ == "__main__":
     
     print(f"Total: {len(all_signs)}")
     
-    # Save to JSON
+    # Save to pretty JSON
     with open('set_signs.json', 'w', encoding='utf-8') as f:
-        json.dump(all_signs, f, ensure_ascii=False, indent=2)
+        f.write('[\n')
+        for i, item in enumerate(all_signs):
+            comma = ',' if i < len(all_signs) - 1 else ''
+            f.write(f'{json.dumps(item, ensure_ascii=False)}{comma}\n')
+        f.write(']\n')
     
     print("Saved to set_signs.json")

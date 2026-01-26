@@ -16,7 +16,7 @@ def get_html(url):
 
 def get_all_signs(sector, market):
     url = f'https://www.set.or.th/th/market/index/{market}/{sector}'
-    soup = Soup(get_html(url))
+    soup = Soup(get_html(url), 'html.parser')
     res = []
     for a in soup.select('a.text-symbol'):
         sym = a['data-symbol']

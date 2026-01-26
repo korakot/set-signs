@@ -1,3925 +1,934 @@
 [
-  {
-    "symbol": "GFPT",
-    "signs": []
-  },
-  {
-    "symbol": "LEE",
-    "signs": []
-  },
-  {
-    "symbol": "NER",
-    "signs": []
-  },
-  {
-    "symbol": "PCE",
-    "signs": []
-  },
-  {
-    "symbol": "PPPM",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "SMO",
-    "signs": []
-  },
-  {
-    "symbol": "STA",
-    "signs": []
-  },
-  {
-    "symbol": "TEGH",
-    "signs": []
-  },
-  {
-    "symbol": "TFM",
-    "signs": []
-  },
-  {
-    "symbol": "TL",
-    "signs": [
-      "CB",
-      "CS"
-    ]
-  },
-  {
-    "symbol": "TRUBB",
-    "signs": []
-  },
-  {
-    "symbol": "UPOIC",
-    "signs": []
-  },
-  {
-    "symbol": "UVAN",
-    "signs": []
-  },
-  {
-    "symbol": "VPO",
-    "signs": []
-  },
-  {
-    "symbol": "AAI",
-    "signs": []
-  },
-  {
-    "symbol": "APURE",
-    "signs": []
-  },
-  {
-    "symbol": "ASIAN",
-    "signs": []
-  },
-  {
-    "symbol": "BR",
-    "signs": []
-  },
-  {
-    "symbol": "BRR",
-    "signs": []
-  },
-  {
-    "symbol": "BTG",
-    "signs": []
-  },
-  {
-    "symbol": "CBG",
-    "signs": []
-  },
-  {
-    "symbol": "CFRESH",
-    "signs": []
-  },
-  {
-    "symbol": "CH",
-    "signs": []
-  },
-  {
-    "symbol": "CHAO",
-    "signs": []
-  },
-  {
-    "symbol": "CHOTI",
-    "signs": []
-  },
-  {
-    "symbol": "CM",
-    "signs": []
-  },
-  {
-    "symbol": "COCOCO",
-    "signs": []
-  },
-  {
-    "symbol": "CPF",
-    "signs": []
-  },
-  {
-    "symbol": "CPI",
-    "signs": []
-  },
-  {
-    "symbol": "F&D",
-    "signs": []
-  },
-  {
-    "symbol": "FM",
-    "signs": []
-  },
-  {
-    "symbol": "HTC",
-    "signs": []
-  },
-  {
-    "symbol": "ICHI",
-    "signs": []
-  },
-  {
-    "symbol": "ITC",
-    "signs": []
-  },
-  {
-    "symbol": "JDF",
-    "signs": []
-  },
-  {
-    "symbol": "KBS",
-    "signs": []
-  },
-  {
-    "symbol": "KCG",
-    "signs": []
-  },
-  {
-    "symbol": "KSL",
-    "signs": []
-  },
-  {
-    "symbol": "KTIS",
-    "signs": []
-  },
-  {
-    "symbol": "LST",
-    "signs": []
-  },
-  {
-    "symbol": "M",
-    "signs": []
-  },
-  {
-    "symbol": "MADAME",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "MALEE",
-    "signs": []
-  },
-  {
-    "symbol": "NRF",
-    "signs": [
-      "CS"
-    ]
-  },
-  {
-    "symbol": "NSL",
-    "signs": []
-  },
-  {
-    "symbol": "OKJ",
-    "signs": []
-  },
-  {
-    "symbol": "OSP",
-    "signs": []
-  },
-  {
-    "symbol": "PB",
-    "signs": []
-  },
-  {
-    "symbol": "PLUS",
-    "signs": []
-  },
-  {
-    "symbol": "PM",
-    "signs": []
-  },
-  {
-    "symbol": "PQS",
-    "signs": []
-  },
-  {
-    "symbol": "PRG",
-    "signs": []
-  },
-  {
-    "symbol": "RBF",
-    "signs": []
-  },
-  {
-    "symbol": "SAPPE",
-    "signs": []
-  },
-  {
-    "symbol": "SAUCE",
-    "signs": []
-  },
-  {
-    "symbol": "SNNP",
-    "signs": []
-  },
-  {
-    "symbol": "SNP",
-    "signs": []
-  },
-  {
-    "symbol": "SORKON",
-    "signs": []
-  },
-  {
-    "symbol": "SSF",
-    "signs": []
-  },
-  {
-    "symbol": "SST",
-    "signs": []
-  },
-  {
-    "symbol": "SUN",
-    "signs": []
-  },
-  {
-    "symbol": "TC",
-    "signs": []
-  },
-  {
-    "symbol": "TFG",
-    "signs": []
-  },
-  {
-    "symbol": "TFMAMA",
-    "signs": []
-  },
-  {
-    "symbol": "TIPCO",
-    "signs": []
-  },
-  {
-    "symbol": "TKN",
-    "signs": []
-  },
-  {
-    "symbol": "TU",
-    "signs": []
-  },
-  {
-    "symbol": "TVO",
-    "signs": []
-  },
-  {
-    "symbol": "TWPC",
-    "signs": []
-  },
-  {
-    "symbol": "XBIO",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "ZEN",
-    "signs": []
-  },
-  {
-    "symbol": "AFC",
-    "signs": []
-  },
-  {
-    "symbol": "AURA",
-    "signs": []
-  },
-  {
-    "symbol": "BTNC",
-    "signs": []
-  },
-  {
-    "symbol": "CPH",
-    "signs": []
-  },
-  {
-    "symbol": "CPL",
-    "signs": []
-  },
-  {
-    "symbol": "NC",
-    "signs": []
-  },
-  {
-    "symbol": "PAF",
-    "signs": []
-  },
-  {
-    "symbol": "PDJ",
-    "signs": []
-  },
-  {
-    "symbol": "PG",
-    "signs": []
-  },
-  {
-    "symbol": "SABINA",
-    "signs": []
-  },
-  {
-    "symbol": "SAWANG",
-    "signs": []
-  },
-  {
-    "symbol": "SUC",
-    "signs": []
-  },
-  {
-    "symbol": "TR",
-    "signs": [
-      "SP"
-    ]
-  },
-  {
-    "symbol": "TTI",
-    "signs": []
-  },
-  {
-    "symbol": "TTT",
-    "signs": []
-  },
-  {
-    "symbol": "UPF",
-    "signs": []
-  },
-  {
-    "symbol": "WACOAL",
-    "signs": []
-  },
-  {
-    "symbol": "WFX",
-    "signs": []
-  },
-  {
-    "symbol": "AJA",
-    "signs": []
-  },
-  {
-    "symbol": "DTCI",
-    "signs": []
-  },
-  {
-    "symbol": "FANCY",
-    "signs": []
-  },
-  {
-    "symbol": "FTI",
-    "signs": []
-  },
-  {
-    "symbol": "KYE",
-    "signs": []
-  },
-  {
-    "symbol": "L&E",
-    "signs": []
-  },
-  {
-    "symbol": "MODERN",
-    "signs": []
-  },
-  {
-    "symbol": "OGC",
-    "signs": []
-  },
-  {
-    "symbol": "ROCK",
-    "signs": []
-  },
-  {
-    "symbol": "SIAM",
-    "signs": []
-  },
-  {
-    "symbol": "TCMC",
-    "signs": []
-  },
-  {
-    "symbol": "TSR",
-    "signs": [
-      "CB",
-      "CS"
-    ]
-  },
-  {
-    "symbol": "APCO",
-    "signs": []
-  },
-  {
-    "symbol": "BIZ",
-    "signs": []
-  },
-  {
-    "symbol": "BLC",
-    "signs": []
-  },
-  {
-    "symbol": "DDD",
-    "signs": []
-  },
-  {
-    "symbol": "IP",
-    "signs": []
-  },
-  {
-    "symbol": "JCT",
-    "signs": []
-  },
-  {
-    "symbol": "KISS",
-    "signs": []
-  },
-  {
-    "symbol": "NAM",
-    "signs": []
-  },
-  {
-    "symbol": "NEO",
-    "signs": []
-  },
-  {
-    "symbol": "NV",
-    "signs": []
-  },
-  {
-    "symbol": "OCC",
-    "signs": []
-  },
-  {
-    "symbol": "S&J",
-    "signs": []
-  },
-  {
-    "symbol": "SNPS",
-    "signs": []
-  },
-  {
-    "symbol": "STGT",
-    "signs": []
-  },
-  {
-    "symbol": "TMAN",
-    "signs": []
-  },
-  {
-    "symbol": "TNR",
-    "signs": []
-  },
-  {
-    "symbol": "TOG",
-    "signs": []
-  },
-  {
-    "symbol": "BAY",
-    "signs": []
-  },
-  {
-    "symbol": "BBL",
-    "signs": []
-  },
-  {
-    "symbol": "CIMBT",
-    "signs": [
-      "SP"
-    ]
-  },
-  {
-    "symbol": "CREDIT",
-    "signs": []
-  },
-  {
-    "symbol": "KBANK",
-    "signs": []
-  },
-  {
-    "symbol": "KKP",
-    "signs": []
-  },
-  {
-    "symbol": "KTB",
-    "signs": []
-  },
-  {
-    "symbol": "LHFG",
-    "signs": []
-  },
-  {
-    "symbol": "SCB",
-    "signs": []
-  },
-  {
-    "symbol": "TCAP",
-    "signs": []
-  },
-  {
-    "symbol": "TISCO",
-    "signs": []
-  },
-  {
-    "symbol": "TTB",
-    "signs": []
-  },
-  {
-    "symbol": "AEONTS",
-    "signs": []
-  },
-  {
-    "symbol": "AMANAH",
-    "signs": []
-  },
-  {
-    "symbol": "ASAP",
-    "signs": []
-  },
-  {
-    "symbol": "ASK",
-    "signs": []
-  },
-  {
-    "symbol": "ASP",
-    "signs": []
-  },
-  {
-    "symbol": "BAM",
-    "signs": []
-  },
-  {
-    "symbol": "BYD",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "CGH",
-    "signs": []
-  },
-  {
-    "symbol": "CHASE",
-    "signs": []
-  },
-  {
-    "symbol": "CHAYO",
-    "signs": []
-  },
-  {
-    "symbol": "EAST",
-    "signs": []
-  },
-  {
-    "symbol": "FNS",
-    "signs": []
-  },
-  {
-    "symbol": "FSX",
-    "signs": []
-  },
-  {
-    "symbol": "GBX",
-    "signs": []
-  },
-  {
-    "symbol": "HENG",
-    "signs": []
-  },
-  {
-    "symbol": "IFS",
-    "signs": []
-  },
-  {
-    "symbol": "JMT",
-    "signs": []
-  },
-  {
-    "symbol": "KCAR",
-    "signs": []
-  },
-  {
-    "symbol": "KGI",
-    "signs": []
-  },
-  {
-    "symbol": "KTC",
-    "signs": []
-  },
-  {
-    "symbol": "MFC",
-    "signs": []
-  },
-  {
-    "symbol": "MICRO",
-    "signs": []
-  },
-  {
-    "symbol": "ML",
-    "signs": []
-  },
-  {
-    "symbol": "MST",
-    "signs": []
-  },
-  {
-    "symbol": "MTC",
-    "signs": []
-  },
-  {
-    "symbol": "NCAP",
-    "signs": []
-  },
-  {
-    "symbol": "PL",
-    "signs": []
-  },
-  {
-    "symbol": "S11",
-    "signs": []
-  },
-  {
-    "symbol": "SAK",
-    "signs": []
-  },
-  {
-    "symbol": "SAWAD",
-    "signs": []
-  },
-  {
-    "symbol": "SCAP",
-    "signs": []
-  },
-  {
-    "symbol": "SGC",
-    "signs": []
-  },
-  {
-    "symbol": "STARM",
-    "signs": []
-  },
-  {
-    "symbol": "TH",
-    "signs": []
-  },
-  {
-    "symbol": "THANI",
-    "signs": []
-  },
-  {
-    "symbol": "TIDLOR",
-    "signs": []
-  },
-  {
-    "symbol": "TK",
-    "signs": []
-  },
-  {
-    "symbol": "TNITY",
-    "signs": []
-  },
-  {
-    "symbol": "TNL",
-    "signs": []
-  },
-  {
-    "symbol": "TURBO",
-    "signs": []
-  },
-  {
-    "symbol": "UOBKH",
-    "signs": [
-      "SP"
-    ]
-  },
-  {
-    "symbol": "XPG",
-    "signs": []
-  },
-  {
-    "symbol": "AYUD",
-    "signs": []
-  },
-  {
-    "symbol": "BKIH",
-    "signs": []
-  },
-  {
-    "symbol": "BLA",
-    "signs": []
-  },
-  {
-    "symbol": "BUI",
-    "signs": []
-  },
-  {
-    "symbol": "CHARAN",
-    "signs": [
-      "CS"
-    ]
-  },
-  {
-    "symbol": "INSURE",
-    "signs": []
-  },
-  {
-    "symbol": "KWI",
-    "signs": [
-      "SP",
-      "NC"
-    ]
-  },
-  {
-    "symbol": "MTI",
-    "signs": []
-  },
-  {
-    "symbol": "NKI",
-    "signs": []
-  },
-  {
-    "symbol": "TGH",
-    "signs": []
-  },
-  {
-    "symbol": "THRE",
-    "signs": []
-  },
-  {
-    "symbol": "THREL",
-    "signs": []
-  },
-  {
-    "symbol": "TIPH",
-    "signs": []
-  },
-  {
-    "symbol": "TLI",
-    "signs": []
-  },
-  {
-    "symbol": "TQM",
-    "signs": []
-  },
-  {
-    "symbol": "TSI",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "TVH",
-    "signs": []
-  },
-  {
-    "symbol": "ACG",
-    "signs": []
-  },
-  {
-    "symbol": "AH",
-    "signs": []
-  },
-  {
-    "symbol": "CWT",
-    "signs": []
-  },
-  {
-    "symbol": "EASON",
-    "signs": []
-  },
-  {
-    "symbol": "GYT",
-    "signs": []
-  },
-  {
-    "symbol": "HFT",
-    "signs": []
-  },
-  {
-    "symbol": "IHL",
-    "signs": []
-  },
-  {
-    "symbol": "INGRS",
-    "signs": []
-  },
-  {
-    "symbol": "IRC",
-    "signs": []
-  },
-  {
-    "symbol": "MGC",
-    "signs": []
-  },
-  {
-    "symbol": "NEX",
-    "signs": []
-  },
-  {
-    "symbol": "PCSGH",
-    "signs": []
-  },
-  {
-    "symbol": "POLY",
-    "signs": []
-  },
-  {
-    "symbol": "SAT",
-    "signs": []
-  },
-  {
-    "symbol": "SPG",
-    "signs": []
-  },
-  {
-    "symbol": "STANLY",
-    "signs": []
-  },
-  {
-    "symbol": "TKT",
-    "signs": []
-  },
-  {
-    "symbol": "TNPC",
-    "signs": []
-  },
-  {
-    "symbol": "TRU",
-    "signs": []
-  },
-  {
-    "symbol": "TSC",
-    "signs": []
-  },
-  {
-    "symbol": "AKR",
-    "signs": []
-  },
-  {
-    "symbol": "ALLA",
-    "signs": []
-  },
-  {
-    "symbol": "ASEFA",
-    "signs": []
-  },
-  {
-    "symbol": "CPT",
-    "signs": []
-  },
-  {
-    "symbol": "CRANE",
-    "signs": []
-  },
-  {
-    "symbol": "CTW",
-    "signs": []
-  },
-  {
-    "symbol": "FMT",
-    "signs": []
-  },
-  {
-    "symbol": "FTE",
-    "signs": []
-  },
-  {
-    "symbol": "HTECH",
-    "signs": []
-  },
-  {
-    "symbol": "KKC",
-    "signs": [
-      "SP",
-      "NC"
-    ]
-  },
-  {
-    "symbol": "MASTEC",
-    "signs": []
-  },
-  {
-    "symbol": "PCC",
-    "signs": []
-  },
-  {
-    "symbol": "PK",
-    "signs": []
-  },
-  {
-    "symbol": "PSP",
-    "signs": []
-  },
-  {
-    "symbol": "QTC",
-    "signs": []
-  },
-  {
-    "symbol": "SCI",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "SE",
-    "signs": []
-  },
-  {
-    "symbol": "SELIC",
-    "signs": []
-  },
-  {
-    "symbol": "SNC",
-    "signs": []
-  },
-  {
-    "symbol": "TCJ",
-    "signs": []
-  },
-  {
-    "symbol": "TPCS",
-    "signs": []
-  },
-  {
-    "symbol": "VARO",
-    "signs": []
-  },
-  {
-    "symbol": "UTP",
-    "signs": []
-  },
-  {
-    "symbol": "BCT",
-    "signs": []
-  },
-  {
-    "symbol": "CMAN",
-    "signs": []
-  },
-  {
-    "symbol": "GC",
-    "signs": []
-  },
-  {
-    "symbol": "GGC",
-    "signs": []
-  },
-  {
-    "symbol": "IVL",
-    "signs": []
-  },
-  {
-    "symbol": "NFC",
-    "signs": [
-      "SP"
-    ]
-  },
-  {
-    "symbol": "PATO",
-    "signs": []
-  },
-  {
-    "symbol": "PMTA",
-    "signs": []
-  },
-  {
-    "symbol": "PTTGC",
-    "signs": []
-  },
-  {
-    "symbol": "SUTHA",
-    "signs": []
-  },
-  {
-    "symbol": "TPA",
-    "signs": []
-  },
-  {
-    "symbol": "UAC",
-    "signs": []
-  },
-  {
-    "symbol": "UP",
-    "signs": []
-  },
-  {
-    "symbol": "AJ",
-    "signs": []
-  },
-  {
-    "symbol": "ALUCON",
-    "signs": []
-  },
-  {
-    "symbol": "BGC",
-    "signs": []
-  },
-  {
-    "symbol": "CSC",
-    "signs": []
-  },
-  {
-    "symbol": "NEP",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "PJW",
-    "signs": []
-  },
-  {
-    "symbol": "PTL",
-    "signs": []
-  },
-  {
-    "symbol": "SCGP",
-    "signs": []
-  },
-  {
-    "symbol": "SFLEX",
-    "signs": []
-  },
-  {
-    "symbol": "SITHAI",
-    "signs": []
-  },
-  {
-    "symbol": "SLP",
-    "signs": []
-  },
-  {
-    "symbol": "SMPC",
-    "signs": []
-  },
-  {
-    "symbol": "SPACK",
-    "signs": []
-  },
-  {
-    "symbol": "TCOAT",
-    "signs": []
-  },
-  {
-    "symbol": "TFI",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "THIP",
-    "signs": []
-  },
-  {
-    "symbol": "TMD",
-    "signs": []
-  },
-  {
-    "symbol": "TOPP",
-    "signs": []
-  },
-  {
-    "symbol": "TPAC",
-    "signs": []
-  },
-  {
-    "symbol": "TPBI",
-    "signs": []
-  },
-  {
-    "symbol": "TPP",
-    "signs": []
-  },
-  {
-    "symbol": "2S",
-    "signs": []
-  },
-  {
-    "symbol": "AMC",
-    "signs": []
-  },
-  {
-    "symbol": "BSBM",
-    "signs": []
-  },
-  {
-    "symbol": "CEN",
-    "signs": []
-  },
-  {
-    "symbol": "CITY",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "CSP",
-    "signs": []
-  },
-  {
-    "symbol": "GJS",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "GSTEEL",
-    "signs": [
-      "SP",
-      "NC"
-    ]
-  },
-  {
-    "symbol": "INOX",
-    "signs": []
-  },
-  {
-    "symbol": "LHK",
-    "signs": []
-  },
-  {
-    "symbol": "MCS",
-    "signs": []
-  },
-  {
-    "symbol": "MILL",
-    "signs": [
-      "CB",
-      "CS"
-    ]
-  },
-  {
-    "symbol": "PAP",
-    "signs": []
-  },
-  {
-    "symbol": "PERM",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "SAM",
-    "signs": [
-      "CS"
-    ]
-  },
-  {
-    "symbol": "SMIT",
-    "signs": []
-  },
-  {
-    "symbol": "SSSC",
-    "signs": []
-  },
-  {
-    "symbol": "TGPRO",
-    "signs": []
-  },
-  {
-    "symbol": "THE",
-    "signs": []
-  },
-  {
-    "symbol": "TMT",
-    "signs": []
-  },
-  {
-    "symbol": "TSTH",
-    "signs": []
-  },
-  {
-    "symbol": "TWP",
-    "signs": []
-  },
-  {
-    "symbol": "TYCN",
-    "signs": []
-  },
-  {
-    "symbol": "CCP",
-    "signs": []
-  },
-  {
-    "symbol": "DCC",
-    "signs": []
-  },
-  {
-    "symbol": "DCON",
-    "signs": []
-  },
-  {
-    "symbol": "DRT",
-    "signs": []
-  },
-  {
-    "symbol": "EPG",
-    "signs": []
-  },
-  {
-    "symbol": "GEL",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "PPP",
-    "signs": []
-  },
-  {
-    "symbol": "Q-CON",
-    "signs": []
-  },
-  {
-    "symbol": "SCC",
-    "signs": []
-  },
-  {
-    "symbol": "SCCC",
-    "signs": []
-  },
-  {
-    "symbol": "SCGD",
-    "signs": []
-  },
-  {
-    "symbol": "SCP",
-    "signs": []
-  },
-  {
-    "symbol": "SKN",
-    "signs": []
-  },
-  {
-    "symbol": "STECH",
-    "signs": []
-  },
-  {
-    "symbol": "TASCO",
-    "signs": []
-  },
-  {
-    "symbol": "TOA",
-    "signs": []
-  },
-  {
-    "symbol": "TPIPL",
-    "signs": []
-  },
-  {
-    "symbol": "UMI",
-    "signs": []
-  },
-  {
-    "symbol": "VNG",
-    "signs": []
-  },
-  {
-    "symbol": "WIIK",
-    "signs": []
-  },
-  {
-    "symbol": "WINDOW",
-    "signs": []
-  },
-  {
-    "symbol": "A",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "A5",
-    "signs": []
-  },
-  {
-    "symbol": "AKS",
-    "signs": [
-      "CB",
-      "CS"
-    ]
-  },
-  {
-    "symbol": "AMATA",
-    "signs": []
-  },
-  {
-    "symbol": "AMATAV",
-    "signs": []
-  },
-  {
-    "symbol": "ANAN",
-    "signs": []
-  },
-  {
-    "symbol": "AP",
-    "signs": []
-  },
-  {
-    "symbol": "ASW",
-    "signs": []
-  },
-  {
-    "symbol": "AWC",
-    "signs": []
-  },
-  {
-    "symbol": "BLAND",
-    "signs": []
-  },
-  {
-    "symbol": "BRI",
-    "signs": []
-  },
-  {
-    "symbol": "BROCK",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "CGD",
-    "signs": []
-  },
-  {
-    "symbol": "CI",
-    "signs": []
-  },
-  {
-    "symbol": "CMC",
-    "signs": []
-  },
-  {
-    "symbol": "CPN",
-    "signs": []
-  },
-  {
-    "symbol": "ESTAR",
-    "signs": []
-  },
-  {
-    "symbol": "EVER",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "FPT",
-    "signs": []
-  },
-  {
-    "symbol": "GLAND",
-    "signs": [
-      "SP"
-    ]
-  },
-  {
-    "symbol": "J",
-    "signs": []
-  },
-  {
-    "symbol": "JCK",
-    "signs": []
-  },
-  {
-    "symbol": "KC",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "KUN",
-    "signs": []
-  },
-  {
-    "symbol": "LALIN",
-    "signs": []
-  },
-  {
-    "symbol": "LH",
-    "signs": []
-  },
-  {
-    "symbol": "LPN",
-    "signs": []
-  },
-  {
-    "symbol": "MBK",
-    "signs": []
-  },
-  {
-    "symbol": "MJD",
-    "signs": []
-  },
-  {
-    "symbol": "MK",
-    "signs": []
-  },
-  {
-    "symbol": "NCH",
-    "signs": []
-  },
-  {
-    "symbol": "NNCL",
-    "signs": []
-  },
-  {
-    "symbol": "NOBLE",
-    "signs": []
-  },
-  {
-    "symbol": "NVD",
-    "signs": []
-  },
-  {
-    "symbol": "ORI",
-    "signs": []
-  },
-  {
-    "symbol": "ORN",
-    "signs": []
-  },
-  {
-    "symbol": "PEACE",
-    "signs": []
-  },
-  {
-    "symbol": "PF",
-    "signs": []
-  },
-  {
-    "symbol": "PIN",
-    "signs": []
-  },
-  {
-    "symbol": "PLAT",
-    "signs": []
-  },
-  {
-    "symbol": "PRECHA",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "PRIN",
-    "signs": []
-  },
-  {
-    "symbol": "PROUD",
-    "signs": []
-  },
-  {
-    "symbol": "PSH",
-    "signs": []
-  },
-  {
-    "symbol": "QH",
-    "signs": []
-  },
-  {
-    "symbol": "RABBIT",
-    "signs": []
-  },
-  {
-    "symbol": "RICHY",
-    "signs": []
-  },
-  {
-    "symbol": "RML",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "ROJNA",
-    "signs": []
-  },
-  {
-    "symbol": "S",
-    "signs": []
-  },
-  {
-    "symbol": "SA",
-    "signs": []
-  },
-  {
-    "symbol": "SAMCO",
-    "signs": []
-  },
-  {
-    "symbol": "SC",
-    "signs": []
-  },
-  {
-    "symbol": "SENA",
-    "signs": []
-  },
-  {
-    "symbol": "SIRI",
-    "signs": []
-  },
-  {
-    "symbol": "SPALI",
-    "signs": []
-  },
-  {
-    "symbol": "STELLA",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "UV",
-    "signs": []
-  },
-  {
-    "symbol": "WHA",
-    "signs": []
-  },
-  {
-    "symbol": "WIN",
-    "signs": []
-  },
-  {
-    "symbol": "AIMCG",
-    "signs": []
-  },
-  {
-    "symbol": "AIMIRT",
-    "signs": []
-  },
-  {
-    "symbol": "ALLY",
-    "signs": []
-  },
-  {
-    "symbol": "AMATAR",
-    "signs": []
-  },
-  {
-    "symbol": "AXTRART",
-    "signs": []
-  },
-  {
-    "symbol": "B-WORK",
-    "signs": []
-  },
-  {
-    "symbol": "BAREIT",
-    "signs": []
-  },
-  {
-    "symbol": "BOFFICE",
-    "signs": []
-  },
-  {
-    "symbol": "CPNCG",
-    "signs": []
-  },
-  {
-    "symbol": "CPNREIT",
-    "signs": []
-  },
-  {
-    "symbol": "CPTREIT",
-    "signs": []
-  },
-  {
-    "symbol": "CTARAF",
-    "signs": []
-  },
-  {
-    "symbol": "DREIT",
-    "signs": []
-  },
-  {
-    "symbol": "FTREIT",
-    "signs": []
-  },
-  {
-    "symbol": "FUTURERT",
-    "signs": []
-  },
-  {
-    "symbol": "GAHREIT",
-    "signs": []
-  },
-  {
-    "symbol": "GROREIT",
-    "signs": []
-  },
-  {
-    "symbol": "GVREIT",
-    "signs": []
-  },
-  {
-    "symbol": "HPF",
-    "signs": []
-  },
-  {
-    "symbol": "HYDROGEN",
-    "signs": []
-  },
-  {
-    "symbol": "IMPACT",
-    "signs": []
-  },
-  {
-    "symbol": "INETREIT",
-    "signs": []
-  },
-  {
-    "symbol": "ISSARA",
-    "signs": []
-  },
-  {
-    "symbol": "KPNREIT",
-    "signs": []
-  },
-  {
-    "symbol": "KTBSTMR",
-    "signs": []
-  },
-  {
-    "symbol": "LHHOTEL",
-    "signs": []
-  },
-  {
-    "symbol": "LHRREIT",
-    "signs": []
-  },
-  {
-    "symbol": "LHSC",
-    "signs": []
-  },
-  {
-    "symbol": "LUXF",
-    "signs": []
-  },
-  {
-    "symbol": "M-PAT",
-    "signs": []
-  },
-  {
-    "symbol": "M-STOR",
-    "signs": []
-  },
-  {
-    "symbol": "MII",
-    "signs": []
-  },
-  {
-    "symbol": "MIPF",
-    "signs": []
-  },
-  {
-    "symbol": "MJLF",
-    "signs": []
-  },
-  {
-    "symbol": "MNIT",
-    "signs": []
-  },
-  {
-    "symbol": "MNIT2",
-    "signs": []
-  },
-  {
-    "symbol": "MNRF",
-    "signs": []
-  },
-  {
-    "symbol": "POPF",
-    "signs": []
-  },
-  {
-    "symbol": "PROSPECT",
-    "signs": []
-  },
-  {
-    "symbol": "QHBREIT",
-    "signs": []
-  },
-  {
-    "symbol": "QHHRREIT",
-    "signs": []
-  },
-  {
-    "symbol": "QHOP",
-    "signs": []
-  },
-  {
-    "symbol": "SIRIPRT",
-    "signs": []
-  },
-  {
-    "symbol": "SPRIME",
-    "signs": []
-  },
-  {
-    "symbol": "SRIPANWA",
-    "signs": []
-  },
-  {
-    "symbol": "SSPF",
-    "signs": []
-  },
-  {
-    "symbol": "SSTRT",
-    "signs": []
-  },
-  {
-    "symbol": "TIF1",
-    "signs": []
-  },
-  {
-    "symbol": "TLHPF",
-    "signs": []
-  },
-  {
-    "symbol": "TNPF",
-    "signs": []
-  },
-  {
-    "symbol": "TPRIME",
-    "signs": []
-  },
-  {
-    "symbol": "TTLPF",
-    "signs": []
-  },
-  {
-    "symbol": "TU-PF",
-    "signs": []
-  },
-  {
-    "symbol": "WHABT",
-    "signs": []
-  },
-  {
-    "symbol": "WHAIR",
-    "signs": []
-  },
-  {
-    "symbol": "WHART",
-    "signs": []
-  },
-  {
-    "symbol": "APCS",
-    "signs": []
-  },
-  {
-    "symbol": "BJCHI",
-    "signs": []
-  },
-  {
-    "symbol": "BKD",
-    "signs": []
-  },
-  {
-    "symbol": "CIVIL",
-    "signs": []
-  },
-  {
-    "symbol": "CK",
-    "signs": []
-  },
-  {
-    "symbol": "CNT",
-    "signs": []
-  },
-  {
-    "symbol": "DEMCO",
-    "signs": []
-  },
-  {
-    "symbol": "EMC",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "ITD",
-    "signs": [
-      "CB",
-      "CS"
-    ]
-  },
-  {
-    "symbol": "JR",
-    "signs": []
-  },
-  {
-    "symbol": "NL",
-    "signs": []
-  },
-  {
-    "symbol": "NWR",
-    "signs": [
-      "SP",
-      "NC"
-    ]
-  },
-  {
-    "symbol": "PLE",
-    "signs": []
-  },
-  {
-    "symbol": "PREB",
-    "signs": []
-  },
-  {
-    "symbol": "PYLON",
-    "signs": []
-  },
-  {
-    "symbol": "RT",
-    "signs": []
-  },
-  {
-    "symbol": "SEAFCO",
-    "signs": []
-  },
-  {
-    "symbol": "SOLAR",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "SQ",
-    "signs": []
-  },
-  {
-    "symbol": "SRICHA",
-    "signs": []
-  },
-  {
-    "symbol": "STECON",
-    "signs": []
-  },
-  {
-    "symbol": "STI",
-    "signs": []
-  },
-  {
-    "symbol": "STPI",
-    "signs": []
-  },
-  {
-    "symbol": "SYNTEC",
-    "signs": []
-  },
-  {
-    "symbol": "TEAMG",
-    "signs": []
-  },
-  {
-    "symbol": "TEKA",
-    "signs": []
-  },
-  {
-    "symbol": "TPOLY",
-    "signs": []
-  },
-  {
-    "symbol": "TRC",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "TRITN",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "TTCL",
-    "signs": [
-      "CB",
-      "CS"
-    ]
-  },
-  {
-    "symbol": "UNIQ",
-    "signs": []
-  },
-  {
-    "symbol": "WGE",
-    "signs": []
-  },
-  {
-    "symbol": "ACC",
-    "signs": []
-  },
-  {
-    "symbol": "ACE",
-    "signs": []
-  },
-  {
-    "symbol": "AE",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "AGE",
-    "signs": []
-  },
-  {
-    "symbol": "AI",
-    "signs": []
-  },
-  {
-    "symbol": "AIE",
-    "signs": []
-  },
-  {
-    "symbol": "ATLAS",
-    "signs": []
-  },
-  {
-    "symbol": "BAFS",
-    "signs": []
-  },
-  {
-    "symbol": "BANPU",
-    "signs": []
-  },
-  {
-    "symbol": "BBGI",
-    "signs": []
-  },
-  {
-    "symbol": "BCP",
-    "signs": []
-  },
-  {
-    "symbol": "BCPG",
-    "signs": []
-  },
-  {
-    "symbol": "BGRIM",
-    "signs": []
-  },
-  {
-    "symbol": "BIOTEC",
-    "signs": []
-  },
-  {
-    "symbol": "BPP",
-    "signs": []
-  },
-  {
-    "symbol": "BRRGIF",
-    "signs": []
-  },
-  {
-    "symbol": "CKP",
-    "signs": []
-  },
-  {
-    "symbol": "CV",
-    "signs": [
-      "SP",
-      "NC"
-    ]
-  },
-  {
-    "symbol": "EA",
-    "signs": []
-  },
-  {
-    "symbol": "EASTW",
-    "signs": []
-  },
-  {
-    "symbol": "EGATIF",
-    "signs": []
-  },
-  {
-    "symbol": "EGCO",
-    "signs": []
-  },
-  {
-    "symbol": "EP",
-    "signs": []
-  },
-  {
-    "symbol": "ETC",
-    "signs": []
-  },
-  {
-    "symbol": "GPSC",
-    "signs": []
-  },
-  {
-    "symbol": "GREEN",
-    "signs": []
-  },
-  {
-    "symbol": "GULF",
-    "signs": []
-  },
-  {
-    "symbol": "GUNKUL",
-    "signs": []
-  },
-  {
-    "symbol": "IRPC",
-    "signs": []
-  },
-  {
-    "symbol": "KBSPIF",
-    "signs": []
-  },
-  {
-    "symbol": "LANNA",
-    "signs": []
-  },
-  {
-    "symbol": "MDX",
-    "signs": []
-  },
-  {
-    "symbol": "NOVA",
-    "signs": []
-  },
-  {
-    "symbol": "OR",
-    "signs": []
-  },
-  {
-    "symbol": "PRIME",
-    "signs": []
-  },
-  {
-    "symbol": "PTG",
-    "signs": []
-  },
-  {
-    "symbol": "PTT",
-    "signs": []
-  },
-  {
-    "symbol": "PTTEP",
-    "signs": []
-  },
-  {
-    "symbol": "RATCH",
-    "signs": []
-  },
-  {
-    "symbol": "RPC",
-    "signs": []
-  },
-  {
-    "symbol": "SCG",
-    "signs": []
-  },
-  {
-    "symbol": "SCN",
-    "signs": []
-  },
-  {
-    "symbol": "SEAOIL",
-    "signs": []
-  },
-  {
-    "symbol": "SGP",
-    "signs": []
-  },
-  {
-    "symbol": "SKE",
-    "signs": []
-  },
-  {
-    "symbol": "SPCG",
-    "signs": []
-  },
-  {
-    "symbol": "SPRC",
-    "signs": []
-  },
-  {
-    "symbol": "SSP",
-    "signs": []
-  },
-  {
-    "symbol": "SUPER",
-    "signs": []
-  },
-  {
-    "symbol": "SUPEREIF",
-    "signs": []
-  },
-  {
-    "symbol": "SUSCO",
-    "signs": []
-  },
-  {
-    "symbol": "TAE",
-    "signs": []
-  },
-  {
-    "symbol": "TCC",
-    "signs": []
-  },
-  {
-    "symbol": "TGE",
-    "signs": []
-  },
-  {
-    "symbol": "TOP",
-    "signs": []
-  },
-  {
-    "symbol": "TPIPP",
-    "signs": []
-  },
-  {
-    "symbol": "TSE",
-    "signs": []
-  },
-  {
-    "symbol": "TTW",
-    "signs": []
-  },
-  {
-    "symbol": "UBE",
-    "signs": []
-  },
-  {
-    "symbol": "WHAUP",
-    "signs": []
-  },
-  {
-    "symbol": "WP",
-    "signs": []
-  },
-  {
-    "symbol": "ADVICE",
-    "signs": []
-  },
-  {
-    "symbol": "B52",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "BEAUTY",
-    "signs": []
-  },
-  {
-    "symbol": "BIG",
-    "signs": []
-  },
-  {
-    "symbol": "BJC",
-    "signs": []
-  },
-  {
-    "symbol": "COM7",
-    "signs": []
-  },
-  {
-    "symbol": "CPALL",
-    "signs": []
-  },
-  {
-    "symbol": "CPAXT",
-    "signs": []
-  },
-  {
-    "symbol": "CPW",
-    "signs": []
-  },
-  {
-    "symbol": "CRC",
-    "signs": []
-  },
-  {
-    "symbol": "CSS",
-    "signs": []
-  },
-  {
-    "symbol": "DOHOME",
-    "signs": []
-  },
-  {
-    "symbol": "FN",
-    "signs": []
-  },
-  {
-    "symbol": "GLOBAL",
-    "signs": []
-  },
-  {
-    "symbol": "HMPRO",
-    "signs": []
-  },
-  {
-    "symbol": "ICC",
-    "signs": []
-  },
-  {
-    "symbol": "ILM",
-    "signs": []
-  },
-  {
-    "symbol": "IT",
-    "signs": []
-  },
-  {
-    "symbol": "KAMART",
-    "signs": []
-  },
-  {
-    "symbol": "LOXLEY",
-    "signs": []
-  },
-  {
-    "symbol": "MC",
-    "signs": []
-  },
-  {
-    "symbol": "MEGA",
-    "signs": []
-  },
-  {
-    "symbol": "MIDA",
-    "signs": []
-  },
-  {
-    "symbol": "MOSHI",
-    "signs": []
-  },
-  {
-    "symbol": "MRDIYT",
-    "signs": []
-  },
-  {
-    "symbol": "RS",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "RSP",
-    "signs": []
-  },
-  {
-    "symbol": "SCM",
-    "signs": []
-  },
-  {
-    "symbol": "SINGER",
-    "signs": []
-  },
-  {
-    "symbol": "SPC",
-    "signs": []
-  },
-  {
-    "symbol": "SPI",
-    "signs": []
-  },
-  {
-    "symbol": "SVT",
-    "signs": []
-  },
-  {
-    "symbol": "TAN",
-    "signs": []
-  },
-  {
-    "symbol": "WSOL",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "AHC",
-    "signs": []
-  },
-  {
-    "symbol": "BCH",
-    "signs": []
-  },
-  {
-    "symbol": "BDMS",
-    "signs": []
-  },
-  {
-    "symbol": "BH",
-    "signs": []
-  },
-  {
-    "symbol": "BKGI",
-    "signs": []
-  },
-  {
-    "symbol": "CHG",
-    "signs": []
-  },
-  {
-    "symbol": "CMR",
-    "signs": []
-  },
-  {
-    "symbol": "EKH",
-    "signs": []
-  },
-  {
-    "symbol": "KDH",
-    "signs": []
-  },
-  {
-    "symbol": "KLINIQ",
-    "signs": []
-  },
-  {
-    "symbol": "LPH",
-    "signs": []
-  },
-  {
-    "symbol": "M-CHAI",
-    "signs": []
-  },
-  {
-    "symbol": "MASTER",
-    "signs": []
-  },
-  {
-    "symbol": "MEDEZE",
-    "signs": []
-  },
-  {
-    "symbol": "NEW",
-    "signs": []
-  },
-  {
-    "symbol": "NKT",
-    "signs": []
-  },
-  {
-    "symbol": "NTV",
-    "signs": []
-  },
-  {
-    "symbol": "PHG",
-    "signs": []
-  },
-  {
-    "symbol": "PR9",
-    "signs": []
-  },
-  {
-    "symbol": "PRINC",
-    "signs": []
-  },
-  {
-    "symbol": "RAM",
-    "signs": []
-  },
-  {
-    "symbol": "RJH",
-    "signs": []
-  },
-  {
-    "symbol": "RPH",
-    "signs": []
-  },
-  {
-    "symbol": "SAFE",
-    "signs": []
-  },
-  {
-    "symbol": "SKR",
-    "signs": []
-  },
-  {
-    "symbol": "THG",
-    "signs": []
-  },
-  {
-    "symbol": "VIBHA",
-    "signs": []
-  },
-  {
-    "symbol": "VIH",
-    "signs": []
-  },
-  {
-    "symbol": "WPH",
-    "signs": []
-  },
-  {
-    "symbol": "AMARIN",
-    "signs": [
-      "CF"
-    ]
-  },
-  {
-    "symbol": "AQUA",
-    "signs": []
-  },
-  {
-    "symbol": "AS",
-    "signs": []
-  },
-  {
-    "symbol": "BEC",
-    "signs": []
-  },
-  {
-    "symbol": "FE",
-    "signs": []
-  },
-  {
-    "symbol": "GPI",
-    "signs": []
-  },
-  {
-    "symbol": "GRAMMY",
-    "signs": []
-  },
-  {
-    "symbol": "MAJOR",
-    "signs": []
-  },
-  {
-    "symbol": "MATCH",
-    "signs": []
-  },
-  {
-    "symbol": "MATI",
-    "signs": []
-  },
-  {
-    "symbol": "MCOT",
-    "signs": []
-  },
-  {
-    "symbol": "MONO",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "NATION",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "ONEE",
-    "signs": []
-  },
-  {
-    "symbol": "PLANB",
-    "signs": []
-  },
-  {
-    "symbol": "PRAKIT",
-    "signs": []
-  },
-  {
-    "symbol": "PTECH",
-    "signs": []
-  },
-  {
-    "symbol": "SE-ED",
-    "signs": []
-  },
-  {
-    "symbol": "TKS",
-    "signs": []
-  },
-  {
-    "symbol": "VGI",
-    "signs": []
-  },
-  {
-    "symbol": "WORK",
-    "signs": []
-  },
-  {
-    "symbol": "ZAA",
-    "signs": []
-  },
-  {
-    "symbol": "BWG",
-    "signs": []
-  },
-  {
-    "symbol": "GENCO",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "PRTR",
-    "signs": []
-  },
-  {
-    "symbol": "SISB",
-    "signs": []
-  },
-  {
-    "symbol": "SO",
-    "signs": []
-  },
-  {
-    "symbol": "WAVE",
-    "signs": [
-      "CB",
-      "CS"
-    ]
-  },
-  {
-    "symbol": "ASIA",
-    "signs": []
-  },
-  {
-    "symbol": "BEYOND",
-    "signs": []
-  },
-  {
-    "symbol": "CENTEL",
-    "signs": []
-  },
-  {
-    "symbol": "CSR",
-    "signs": []
-  },
-  {
-    "symbol": "DUSIT",
-    "signs": []
-  },
-  {
-    "symbol": "ERW",
-    "signs": []
-  },
-  {
-    "symbol": "GRAND",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "LRH",
-    "signs": [
-      "SP"
-    ]
-  },
-  {
-    "symbol": "MANRIN",
-    "signs": []
-  },
-  {
-    "symbol": "MINT",
-    "signs": []
-  },
-  {
-    "symbol": "OHTL",
-    "signs": []
-  },
-  {
-    "symbol": "ONSENS",
-    "signs": []
-  },
-  {
-    "symbol": "ROH",
-    "signs": [
-      "SP"
-    ]
-  },
-  {
-    "symbol": "SHANG",
-    "signs": []
-  },
-  {
-    "symbol": "SHR",
-    "signs": []
-  },
-  {
-    "symbol": "SPA",
-    "signs": []
-  },
-  {
-    "symbol": "VRANDA",
-    "signs": []
-  },
-  {
-    "symbol": "AAV",
-    "signs": []
-  },
-  {
-    "symbol": "ANI",
-    "signs": []
-  },
-  {
-    "symbol": "AOT",
-    "signs": []
-  },
-  {
-    "symbol": "ASIMAR",
-    "signs": []
-  },
-  {
-    "symbol": "B",
-    "signs": []
-  },
-  {
-    "symbol": "BA",
-    "signs": []
-  },
-  {
-    "symbol": "BEM",
-    "signs": []
-  },
-  {
-    "symbol": "BTS",
-    "signs": []
-  },
-  {
-    "symbol": "BTSGIF",
-    "signs": []
-  },
-  {
-    "symbol": "DMT",
-    "signs": []
-  },
-  {
-    "symbol": "ETL",
-    "signs": []
-  },
-  {
-    "symbol": "III",
-    "signs": []
-  },
-  {
-    "symbol": "KIAT",
-    "signs": []
-  },
-  {
-    "symbol": "KWC",
-    "signs": []
-  },
-  {
-    "symbol": "MENA",
-    "signs": []
-  },
-  {
-    "symbol": "NYT",
-    "signs": []
-  },
-  {
-    "symbol": "PORT",
-    "signs": []
-  },
-  {
-    "symbol": "PRM",
-    "signs": []
-  },
-  {
-    "symbol": "PSL",
-    "signs": []
-  },
-  {
-    "symbol": "RCL",
-    "signs": []
-  },
-  {
-    "symbol": "SAV",
-    "signs": []
-  },
-  {
-    "symbol": "SINO",
-    "signs": []
-  },
-  {
-    "symbol": "SJWD",
-    "signs": []
-  },
-  {
-    "symbol": "TFFIF",
-    "signs": []
-  },
-  {
-    "symbol": "THAI",
-    "signs": []
-  },
-  {
-    "symbol": "TSTE",
-    "signs": []
-  },
-  {
-    "symbol": "TTA",
-    "signs": []
-  },
-  {
-    "symbol": "WICE",
-    "signs": []
-  },
-  {
-    "symbol": "CCET",
-    "signs": []
-  },
-  {
-    "symbol": "DELTA",
-    "signs": []
-  },
-  {
-    "symbol": "HANA",
-    "signs": []
-  },
-  {
-    "symbol": "KCE",
-    "signs": []
-  },
-  {
-    "symbol": "METCO",
-    "signs": []
-  },
-  {
-    "symbol": "SMT",
-    "signs": []
-  },
-  {
-    "symbol": "SVI",
-    "signs": []
-  },
-  {
-    "symbol": "TEAM",
-    "signs": []
-  },
-  {
-    "symbol": "3BBIF",
-    "signs": []
-  },
-  {
-    "symbol": "ADVANC",
-    "signs": []
-  },
-  {
-    "symbol": "AIT",
-    "signs": []
-  },
-  {
-    "symbol": "ALT",
-    "signs": []
-  },
-  {
-    "symbol": "AMR",
-    "signs": []
-  },
-  {
-    "symbol": "BBIK",
-    "signs": []
-  },
-  {
-    "symbol": "BLISS",
-    "signs": [
-      "SP",
-      "NC",
-      "NP"
-    ]
-  },
-  {
-    "symbol": "DIF",
-    "signs": []
-  },
-  {
-    "symbol": "DITTO",
-    "signs": []
-  },
-  {
-    "symbol": "DTCENT",
-    "signs": []
-  },
-  {
-    "symbol": "FORTH",
-    "signs": []
-  },
-  {
-    "symbol": "GABLE",
-    "signs": []
-  },
-  {
-    "symbol": "HUMAN",
-    "signs": []
-  },
-  {
-    "symbol": "ICN",
-    "signs": []
-  },
-  {
-    "symbol": "ILINK",
-    "signs": []
-  },
-  {
-    "symbol": "INET",
-    "signs": []
-  },
-  {
-    "symbol": "INSET",
-    "signs": []
-  },
-  {
-    "symbol": "ITEL",
-    "signs": []
-  },
-  {
-    "symbol": "JAS",
-    "signs": []
-  },
-  {
-    "symbol": "JMART",
-    "signs": []
-  },
-  {
-    "symbol": "JTS",
-    "signs": []
-  },
-  {
-    "symbol": "MFEC",
-    "signs": []
-  },
-  {
-    "symbol": "MSC",
-    "signs": []
-  },
-  {
-    "symbol": "PT",
-    "signs": []
-  },
-  {
-    "symbol": "ROCTEC",
-    "signs": []
-  },
-  {
-    "symbol": "SAMART",
-    "signs": []
-  },
-  {
-    "symbol": "SAMTEL",
-    "signs": []
-  },
-  {
-    "symbol": "SDC",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "SIS",
-    "signs": []
-  },
-  {
-    "symbol": "SKY",
-    "signs": []
-  },
-  {
-    "symbol": "SPREME",
-    "signs": []
-  },
-  {
-    "symbol": "SVOA",
-    "signs": []
-  },
-  {
-    "symbol": "SYMC",
-    "signs": []
-  },
-  {
-    "symbol": "SYNEX",
-    "signs": []
-  },
-  {
-    "symbol": "THCOM",
-    "signs": []
-  },
-  {
-    "symbol": "TKC",
-    "signs": []
-  },
-  {
-    "symbol": "TRUE",
-    "signs": []
-  },
-  {
-    "symbol": "TWZ",
-    "signs": []
-  },
-  {
-    "symbol": "XYZ",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "APO",
-    "signs": []
-  },
-  {
-    "symbol": "AU",
-    "signs": []
-  },
-  {
-    "symbol": "CFARM",
-    "signs": []
-  },
-  {
-    "symbol": "KASET",
-    "signs": []
-  },
-  {
-    "symbol": "MAGURO",
-    "signs": []
-  },
-  {
-    "symbol": "MUD",
-    "signs": []
-  },
-  {
-    "symbol": "NTF",
-    "signs": []
-  },
-  {
-    "symbol": "NTSC",
-    "signs": []
-  },
-  {
-    "symbol": "QDC",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "TACC",
-    "signs": []
-  },
-  {
-    "symbol": "TMILL",
-    "signs": []
-  },
-  {
-    "symbol": "WINNER",
-    "signs": []
-  },
-  {
-    "symbol": "XO",
-    "signs": []
-  },
-  {
-    "symbol": "88TH",
-    "signs": []
-  },
-  {
-    "symbol": "BGT",
-    "signs": []
-  },
-  {
-    "symbol": "DOD",
-    "signs": []
-  },
-  {
-    "symbol": "ECF",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "EFORL",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "EURO",
-    "signs": []
-  },
-  {
-    "symbol": "HPT",
-    "signs": []
-  },
-  {
-    "symbol": "ITTHI",
-    "signs": []
-  },
-  {
-    "symbol": "JSP",
-    "signs": []
-  },
-  {
-    "symbol": "JUBILE",
-    "signs": []
-  },
-  {
-    "symbol": "LTS",
-    "signs": []
-  },
-  {
-    "symbol": "MGI",
-    "signs": []
-  },
-  {
-    "symbol": "MOONG",
-    "signs": []
-  },
-  {
-    "symbol": "NPK",
-    "signs": []
-  },
-  {
-    "symbol": "NUT",
-    "signs": []
-  },
-  {
-    "symbol": "SEI",
-    "signs": []
-  },
-  {
-    "symbol": "SKIN",
-    "signs": []
-  },
-  {
-    "symbol": "SMD100",
-    "signs": []
-  },
-  {
-    "symbol": "TM",
-    "signs": []
-  },
-  {
-    "symbol": "WARRIX",
-    "signs": []
-  },
-  {
-    "symbol": "WINMED",
-    "signs": []
-  },
-  {
-    "symbol": "ACAP",
-    "signs": [
-      "SP",
-      "NC",
-      "NP"
-    ]
-  },
-  {
-    "symbol": "AF",
-    "signs": []
-  },
-  {
-    "symbol": "AIRA",
-    "signs": []
-  },
-  {
-    "symbol": "ASN",
-    "signs": []
-  },
-  {
-    "symbol": "BTC",
-    "signs": []
-  },
-  {
-    "symbol": "GCAP",
-    "signs": []
-  },
-  {
-    "symbol": "KCC",
-    "signs": []
-  },
-  {
-    "symbol": "LIT",
-    "signs": []
-  },
-  {
-    "symbol": "MITSIB",
-    "signs": []
-  },
-  {
-    "symbol": "SGF",
-    "signs": []
-  },
-  {
-    "symbol": "TQR",
-    "signs": []
-  },
-  {
-    "symbol": "ADB",
-    "signs": []
-  },
-  {
-    "symbol": "BM",
-    "signs": []
-  },
-  {
-    "symbol": "BPS",
-    "signs": []
-  },
-  {
-    "symbol": "CHO",
-    "signs": [
-      "CB",
-      "CS"
-    ]
-  },
-  {
-    "symbol": "CHOW",
-    "signs": []
-  },
-  {
-    "symbol": "CIG",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "COLOR",
-    "signs": []
-  },
-  {
-    "symbol": "CPR",
-    "signs": []
-  },
-  {
-    "symbol": "FPI",
-    "signs": []
-  },
-  {
-    "symbol": "GTB",
-    "signs": []
-  },
-  {
-    "symbol": "HARN",
-    "signs": []
-  },
-  {
-    "symbol": "KCM",
-    "signs": []
-  },
-  {
-    "symbol": "KJL",
-    "signs": []
-  },
-  {
-    "symbol": "KUMWEL",
-    "signs": []
-  },
-  {
-    "symbol": "KWM",
-    "signs": []
-  },
-  {
-    "symbol": "MBAX",
-    "signs": []
-  },
-  {
-    "symbol": "MGT",
-    "signs": []
-  },
-  {
-    "symbol": "MTW",
-    "signs": []
-  },
-  {
-    "symbol": "NDR",
-    "signs": []
-  },
-  {
-    "symbol": "PACO",
-    "signs": []
-  },
-  {
-    "symbol": "PDG",
-    "signs": []
-  },
-  {
-    "symbol": "PHOL",
-    "signs": []
-  },
-  {
-    "symbol": "PIMO",
-    "signs": []
-  },
-  {
-    "symbol": "PMC",
-    "signs": []
-  },
-  {
-    "symbol": "PPM",
-    "signs": []
-  },
-  {
-    "symbol": "PRAPAT",
-    "signs": []
-  },
-  {
-    "symbol": "RWI",
-    "signs": []
-  },
-  {
-    "symbol": "SAF",
-    "signs": []
-  },
-  {
-    "symbol": "SALEE",
-    "signs": []
-  },
-  {
-    "symbol": "SANKO",
-    "signs": []
-  },
-  {
-    "symbol": "SCL",
-    "signs": []
-  },
-  {
-    "symbol": "SFT",
-    "signs": []
-  },
-  {
-    "symbol": "STP",
-    "signs": []
-  },
-  {
-    "symbol": "SWC",
-    "signs": []
-  },
-  {
-    "symbol": "TATG",
-    "signs": []
-  },
-  {
-    "symbol": "TMC",
-    "signs": []
-  },
-  {
-    "symbol": "TMI",
-    "signs": []
-  },
-  {
-    "symbol": "TMW",
-    "signs": []
-  },
-  {
-    "symbol": "TPLAS",
-    "signs": []
-  },
-  {
-    "symbol": "TRT",
-    "signs": []
-  },
-  {
-    "symbol": "TRV",
-    "signs": []
-  },
-  {
-    "symbol": "UBIS",
-    "signs": []
-  },
-  {
-    "symbol": "UEC",
-    "signs": []
-  },
-  {
-    "symbol": "UKEM",
-    "signs": []
-  },
-  {
-    "symbol": "UREKA",
-    "signs": []
-  },
-  {
-    "symbol": "YUASA",
-    "signs": []
-  },
-  {
-    "symbol": "ZIGA",
-    "signs": []
-  },
-  {
-    "symbol": "ARIN",
-    "signs": []
-  },
-  {
-    "symbol": "ARROW",
-    "signs": []
-  },
-  {
-    "symbol": "BC",
-    "signs": []
-  },
-  {
-    "symbol": "BKA",
-    "signs": []
-  },
-  {
-    "symbol": "BLESS",
-    "signs": []
-  },
-  {
-    "symbol": "BSM",
-    "signs": []
-  },
-  {
-    "symbol": "BTW",
-    "signs": []
-  },
-  {
-    "symbol": "CAZ",
-    "signs": []
-  },
-  {
-    "symbol": "CHEWA",
-    "signs": []
-  },
-  {
-    "symbol": "CPANEL",
-    "signs": []
-  },
-  {
-    "symbol": "CRD",
-    "signs": []
-  },
-  {
-    "symbol": "DHOUSE",
-    "signs": []
-  },
-  {
-    "symbol": "DIMET",
-    "signs": [
-      "CB",
-      "CS"
-    ]
-  },
-  {
-    "symbol": "DPAINT",
-    "signs": []
-  },
-  {
-    "symbol": "EMPIRE",
-    "signs": []
-  },
-  {
-    "symbol": "FLOYD",
-    "signs": []
-  },
-  {
-    "symbol": "HYDRO",
-    "signs": [
-      "CB",
-      "NP"
-    ]
-  },
-  {
-    "symbol": "IND",
-    "signs": []
-  },
-  {
-    "symbol": "JAK",
-    "signs": []
-  },
-  {
-    "symbol": "K",
-    "signs": []
-  },
-  {
-    "symbol": "META",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "MMM",
-    "signs": []
-  },
-  {
-    "symbol": "PANEL",
-    "signs": []
-  },
-  {
-    "symbol": "PPS",
-    "signs": []
-  },
-  {
-    "symbol": "PRI",
-    "signs": []
-  },
-  {
-    "symbol": "PROS",
-    "signs": []
-  },
-  {
-    "symbol": "PSGC",
-    "signs": []
-  },
-  {
-    "symbol": "QTCG",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "SENX",
-    "signs": []
-  },
-  {
-    "symbol": "SK",
-    "signs": []
-  },
-  {
-    "symbol": "SMART",
-    "signs": []
-  },
-  {
-    "symbol": "STC",
-    "signs": []
-  },
-  {
-    "symbol": "STX",
-    "signs": []
-  },
-  {
-    "symbol": "SVR",
-    "signs": []
-  },
-  {
-    "symbol": "TAPAC",
-    "signs": [
-      "SP",
-      "NC"
-    ]
-  },
-  {
-    "symbol": "THANA",
-    "signs": []
-  },
-  {
-    "symbol": "TIGER",
-    "signs": []
-  },
-  {
-    "symbol": "TITLE",
-    "signs": []
-  },
-  {
-    "symbol": "WELL",
-    "signs": [
-      "SP",
-      "NC",
-      "NP"
-    ]
-  },
-  {
-    "symbol": "YONG",
-    "signs": []
-  },
-  {
-    "symbol": "ABM",
-    "signs": []
-  },
-  {
-    "symbol": "ALPHAX",
-    "signs": []
-  },
-  {
-    "symbol": "GTV",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "PSTC",
-    "signs": []
-  },
-  {
-    "symbol": "PTC",
-    "signs": []
-  },
-  {
-    "symbol": "SAAM",
-    "signs": []
-  },
-  {
-    "symbol": "SR",
-    "signs": []
-  },
-  {
-    "symbol": "STOWER",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "TAKUNI",
-    "signs": []
-  },
-  {
-    "symbol": "TPCH",
-    "signs": []
-  },
-  {
-    "symbol": "UMS",
-    "signs": [
-      "SP",
-      "CB"
-    ]
-  },
-  {
-    "symbol": "ADD",
-    "signs": []
-  },
-  {
-    "symbol": "AKP",
-    "signs": []
-  },
-  {
-    "symbol": "AMA",
-    "signs": []
-  },
-  {
-    "symbol": "AMARC",
-    "signs": []
-  },
-  {
-    "symbol": "ARIP",
-    "signs": []
-  },
-  {
-    "symbol": "ATP30",
-    "signs": []
-  },
-  {
-    "symbol": "AUCT",
-    "signs": []
-  },
-  {
-    "symbol": "BIS",
-    "signs": []
-  },
-  {
-    "symbol": "BOL",
-    "signs": []
-  },
-  {
-    "symbol": "CEYE",
-    "signs": []
-  },
-  {
-    "symbol": "CHIC",
-    "signs": []
-  },
-  {
-    "symbol": "CMO",
-    "signs": [
-      "CB",
-      "CS"
-    ]
-  },
-  {
-    "symbol": "D",
-    "signs": []
-  },
-  {
-    "symbol": "DEXON",
-    "signs": []
-  },
-  {
-    "symbol": "DV8",
-    "signs": []
-  },
-  {
-    "symbol": "ETE",
-    "signs": []
-  },
-  {
-    "symbol": "FSMART",
-    "signs": []
-  },
-  {
-    "symbol": "FVC",
-    "signs": []
-  },
-  {
-    "symbol": "GFC",
-    "signs": []
-  },
-  {
-    "symbol": "GLORY",
-    "signs": []
-  },
-  {
-    "symbol": "HANN",
-    "signs": []
-  },
-  {
-    "symbol": "HEALTH",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "HL",
-    "signs": []
-  },
-  {
-    "symbol": "IMH",
-    "signs": []
-  },
-  {
-    "symbol": "IROYAL",
-    "signs": []
-  },
-  {
-    "symbol": "IVF",
-    "signs": []
-  },
-  {
-    "symbol": "JPARK",
-    "signs": []
-  },
-  {
-    "symbol": "KGEN",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "KK",
-    "signs": []
-  },
-  {
-    "symbol": "KOOL",
-    "signs": []
-  },
-  {
-    "symbol": "KTMS",
-    "signs": []
-  },
-  {
-    "symbol": "LDC",
-    "signs": []
-  },
-  {
-    "symbol": "LEO",
-    "signs": []
-  },
-  {
-    "symbol": "LTMH",
-    "signs": []
-  },
-  {
-    "symbol": "MCA",
-    "signs": []
-  },
-  {
-    "symbol": "MEB",
-    "signs": []
-  },
-  {
-    "symbol": "MORE",
-    "signs": []
-  },
-  {
-    "symbol": "MOTHER",
-    "signs": []
-  },
-  {
-    "symbol": "MPJ",
-    "signs": []
-  },
-  {
-    "symbol": "MVP",
-    "signs": [
-      "CB",
-      "CS"
-    ]
-  },
-  {
-    "symbol": "NCL",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "NCP",
-    "signs": []
-  },
-  {
-    "symbol": "PEER",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "PICO",
-    "signs": [
-      "CF"
-    ]
-  },
-  {
-    "symbol": "PLT",
-    "signs": []
-  },
-  {
-    "symbol": "QLT",
-    "signs": []
-  },
-  {
-    "symbol": "RP",
-    "signs": []
-  },
-  {
-    "symbol": "SONIC",
-    "signs": []
-  },
-  {
-    "symbol": "SPTX",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "THMUI",
-    "signs": []
-  },
-  {
-    "symbol": "TNDT",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "TNH",
-    "signs": []
-  },
-  {
-    "symbol": "TNP",
-    "signs": []
-  },
-  {
-    "symbol": "TPL",
-    "signs": []
-  },
-  {
-    "symbol": "TRP",
-    "signs": []
-  },
-  {
-    "symbol": "TURTLE",
-    "signs": []
-  },
-  {
-    "symbol": "TVDH",
-    "signs": []
-  },
-  {
-    "symbol": "TVT",
-    "signs": []
-  },
-  {
-    "symbol": "UBA",
-    "signs": []
-  },
-  {
-    "symbol": "VL",
-    "signs": []
-  },
-  {
-    "symbol": "VS",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "WASH",
-    "signs": []
-  },
-  {
-    "symbol": "YGG",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "APP",
-    "signs": []
-  },
-  {
-    "symbol": "BE8",
-    "signs": []
-  },
-  {
-    "symbol": "BVG",
-    "signs": []
-  },
-  {
-    "symbol": "COMAN",
-    "signs": [
-      "CS"
-    ]
-  },
-  {
-    "symbol": "I2",
-    "signs": []
-  },
-  {
-    "symbol": "IDG",
-    "signs": []
-  },
-  {
-    "symbol": "IIG",
-    "signs": []
-  },
-  {
-    "symbol": "IRCP",
-    "signs": []
-  },
-  {
-    "symbol": "ITNS",
-    "signs": []
-  },
-  {
-    "symbol": "NAT",
-    "signs": []
-  },
-  {
-    "symbol": "NETBAY",
-    "signs": []
-  },
-  {
-    "symbol": "PIS",
-    "signs": []
-  },
-  {
-    "symbol": "PLANET",
-    "signs": [
-      "CB"
-    ]
-  },
-  {
-    "symbol": "PROEN",
-    "signs": []
-  },
-  {
-    "symbol": "READY",
-    "signs": []
-  },
-  {
-    "symbol": "SECURE",
-    "signs": []
-  },
-  {
-    "symbol": "SICT",
-    "signs": []
-  },
-  {
-    "symbol": "SIMAT",
-    "signs": []
-  },
-  {
-    "symbol": "SPVI",
-    "signs": []
-  },
-  {
-    "symbol": "SRS",
-    "signs": []
-  },
-  {
-    "symbol": "TBN",
-    "signs": []
-  },
-  {
-    "symbol": "TERA",
-    "signs": []
-  },
-  {
-    "symbol": "TPS",
-    "signs": []
-  },
-  {
-    "symbol": "VCOM",
-    "signs": []
-  }
+{"symbol": "GFPT", "signs": []},
+{"symbol": "LEE", "signs": []},
+{"symbol": "NER", "signs": []},
+{"symbol": "PCE", "signs": []},
+{"symbol": "PPPM", "signs": ["CB"]},
+{"symbol": "SMO", "signs": []},
+{"symbol": "STA", "signs": []},
+{"symbol": "TEGH", "signs": []},
+{"symbol": "TFM", "signs": []},
+{"symbol": "TL", "signs": ["CB", "CS"]},
+{"symbol": "TRUBB", "signs": []},
+{"symbol": "UPOIC", "signs": []},
+{"symbol": "UVAN", "signs": []},
+{"symbol": "VPO", "signs": []},
+{"symbol": "AAI", "signs": []},
+{"symbol": "APURE", "signs": []},
+{"symbol": "ASIAN", "signs": []},
+{"symbol": "BR", "signs": []},
+{"symbol": "BRR", "signs": []},
+{"symbol": "BTG", "signs": []},
+{"symbol": "CBG", "signs": []},
+{"symbol": "CFRESH", "signs": []},
+{"symbol": "CH", "signs": []},
+{"symbol": "CHAO", "signs": []},
+{"symbol": "CHOTI", "signs": []},
+{"symbol": "CM", "signs": []},
+{"symbol": "COCOCO", "signs": []},
+{"symbol": "CPF", "signs": []},
+{"symbol": "CPI", "signs": []},
+{"symbol": "F&D", "signs": []},
+{"symbol": "FM", "signs": []},
+{"symbol": "HTC", "signs": []},
+{"symbol": "ICHI", "signs": []},
+{"symbol": "ITC", "signs": []},
+{"symbol": "JDF", "signs": []},
+{"symbol": "KBS", "signs": []},
+{"symbol": "KCG", "signs": []},
+{"symbol": "KSL", "signs": []},
+{"symbol": "KTIS", "signs": []},
+{"symbol": "LST", "signs": []},
+{"symbol": "M", "signs": []},
+{"symbol": "MADAME", "signs": ["CB"]},
+{"symbol": "MALEE", "signs": []},
+{"symbol": "NRF", "signs": ["CS"]},
+{"symbol": "NSL", "signs": []},
+{"symbol": "OKJ", "signs": []},
+{"symbol": "OSP", "signs": []},
+{"symbol": "PB", "signs": []},
+{"symbol": "PLUS", "signs": []},
+{"symbol": "PM", "signs": []},
+{"symbol": "PQS", "signs": []},
+{"symbol": "PRG", "signs": []},
+{"symbol": "RBF", "signs": []},
+{"symbol": "SAPPE", "signs": []},
+{"symbol": "SAUCE", "signs": []},
+{"symbol": "SNNP", "signs": []},
+{"symbol": "SNP", "signs": []},
+{"symbol": "SORKON", "signs": []},
+{"symbol": "SSF", "signs": []},
+{"symbol": "SST", "signs": []},
+{"symbol": "SUN", "signs": []},
+{"symbol": "TC", "signs": []},
+{"symbol": "TFG", "signs": []},
+{"symbol": "TFMAMA", "signs": []},
+{"symbol": "TIPCO", "signs": []},
+{"symbol": "TKN", "signs": []},
+{"symbol": "TU", "signs": []},
+{"symbol": "TVO", "signs": []},
+{"symbol": "TWPC", "signs": []},
+{"symbol": "XBIO", "signs": ["CB"]},
+{"symbol": "ZEN", "signs": []},
+{"symbol": "AFC", "signs": []},
+{"symbol": "AURA", "signs": []},
+{"symbol": "BTNC", "signs": []},
+{"symbol": "CPH", "signs": []},
+{"symbol": "CPL", "signs": []},
+{"symbol": "NC", "signs": []},
+{"symbol": "PAF", "signs": []},
+{"symbol": "PDJ", "signs": []},
+{"symbol": "PG", "signs": []},
+{"symbol": "SABINA", "signs": []},
+{"symbol": "SAWANG", "signs": []},
+{"symbol": "SUC", "signs": []},
+{"symbol": "TR", "signs": ["SP"]},
+{"symbol": "TTI", "signs": []},
+{"symbol": "TTT", "signs": []},
+{"symbol": "UPF", "signs": []},
+{"symbol": "WACOAL", "signs": []},
+{"symbol": "WFX", "signs": []},
+{"symbol": "AJA", "signs": []},
+{"symbol": "DTCI", "signs": []},
+{"symbol": "FANCY", "signs": []},
+{"symbol": "FTI", "signs": []},
+{"symbol": "KYE", "signs": []},
+{"symbol": "L&E", "signs": []},
+{"symbol": "MODERN", "signs": []},
+{"symbol": "OGC", "signs": []},
+{"symbol": "ROCK", "signs": []},
+{"symbol": "SIAM", "signs": []},
+{"symbol": "TCMC", "signs": []},
+{"symbol": "TSR", "signs": ["CB", "CS"]},
+{"symbol": "APCO", "signs": []},
+{"symbol": "BIZ", "signs": []},
+{"symbol": "BLC", "signs": []},
+{"symbol": "DDD", "signs": []},
+{"symbol": "IP", "signs": []},
+{"symbol": "JCT", "signs": []},
+{"symbol": "KISS", "signs": []},
+{"symbol": "NAM", "signs": []},
+{"symbol": "NEO", "signs": []},
+{"symbol": "NV", "signs": []},
+{"symbol": "OCC", "signs": []},
+{"symbol": "S&J", "signs": []},
+{"symbol": "SNPS", "signs": []},
+{"symbol": "STGT", "signs": []},
+{"symbol": "TMAN", "signs": []},
+{"symbol": "TNR", "signs": []},
+{"symbol": "TOG", "signs": []},
+{"symbol": "BAY", "signs": []},
+{"symbol": "BBL", "signs": []},
+{"symbol": "CIMBT", "signs": ["SP"]},
+{"symbol": "CREDIT", "signs": []},
+{"symbol": "KBANK", "signs": []},
+{"symbol": "KKP", "signs": []},
+{"symbol": "KTB", "signs": []},
+{"symbol": "LHFG", "signs": []},
+{"symbol": "SCB", "signs": []},
+{"symbol": "TCAP", "signs": []},
+{"symbol": "TISCO", "signs": []},
+{"symbol": "TTB", "signs": []},
+{"symbol": "AEONTS", "signs": []},
+{"symbol": "AMANAH", "signs": []},
+{"symbol": "ASAP", "signs": []},
+{"symbol": "ASK", "signs": []},
+{"symbol": "ASP", "signs": []},
+{"symbol": "BAM", "signs": []},
+{"symbol": "BYD", "signs": ["CB"]},
+{"symbol": "CGH", "signs": []},
+{"symbol": "CHASE", "signs": []},
+{"symbol": "CHAYO", "signs": []},
+{"symbol": "EAST", "signs": []},
+{"symbol": "FNS", "signs": []},
+{"symbol": "FSX", "signs": []},
+{"symbol": "GBX", "signs": []},
+{"symbol": "HENG", "signs": []},
+{"symbol": "IFS", "signs": []},
+{"symbol": "JMT", "signs": []},
+{"symbol": "KCAR", "signs": []},
+{"symbol": "KGI", "signs": []},
+{"symbol": "KTC", "signs": []},
+{"symbol": "MFC", "signs": []},
+{"symbol": "MICRO", "signs": []},
+{"symbol": "ML", "signs": []},
+{"symbol": "MST", "signs": []},
+{"symbol": "MTC", "signs": []},
+{"symbol": "NCAP", "signs": []},
+{"symbol": "PL", "signs": []},
+{"symbol": "S11", "signs": []},
+{"symbol": "SAK", "signs": []},
+{"symbol": "SAWAD", "signs": []},
+{"symbol": "SCAP", "signs": []},
+{"symbol": "SGC", "signs": []},
+{"symbol": "STARM", "signs": []},
+{"symbol": "TH", "signs": []},
+{"symbol": "THANI", "signs": []},
+{"symbol": "TIDLOR", "signs": []},
+{"symbol": "TK", "signs": []},
+{"symbol": "TNITY", "signs": []},
+{"symbol": "TNL", "signs": []},
+{"symbol": "TURBO", "signs": []},
+{"symbol": "UOBKH", "signs": ["SP"]},
+{"symbol": "XPG", "signs": []},
+{"symbol": "AYUD", "signs": []},
+{"symbol": "BKIH", "signs": []},
+{"symbol": "BLA", "signs": []},
+{"symbol": "BUI", "signs": []},
+{"symbol": "CHARAN", "signs": ["CS"]},
+{"symbol": "INSURE", "signs": []},
+{"symbol": "KWI", "signs": ["SP", "NC"]},
+{"symbol": "MTI", "signs": []},
+{"symbol": "NKI", "signs": []},
+{"symbol": "TGH", "signs": []},
+{"symbol": "THRE", "signs": []},
+{"symbol": "THREL", "signs": []},
+{"symbol": "TIPH", "signs": []},
+{"symbol": "TLI", "signs": []},
+{"symbol": "TQM", "signs": []},
+{"symbol": "TSI", "signs": ["CB"]},
+{"symbol": "TVH", "signs": []},
+{"symbol": "ACG", "signs": []},
+{"symbol": "AH", "signs": []},
+{"symbol": "CWT", "signs": []},
+{"symbol": "EASON", "signs": []},
+{"symbol": "GYT", "signs": []},
+{"symbol": "HFT", "signs": []},
+{"symbol": "IHL", "signs": []},
+{"symbol": "INGRS", "signs": []},
+{"symbol": "IRC", "signs": []},
+{"symbol": "MGC", "signs": []},
+{"symbol": "NEX", "signs": []},
+{"symbol": "PCSGH", "signs": []},
+{"symbol": "POLY", "signs": []},
+{"symbol": "SAT", "signs": []},
+{"symbol": "SPG", "signs": []},
+{"symbol": "STANLY", "signs": []},
+{"symbol": "TKT", "signs": []},
+{"symbol": "TNPC", "signs": []},
+{"symbol": "TRU", "signs": []},
+{"symbol": "TSC", "signs": []},
+{"symbol": "AKR", "signs": []},
+{"symbol": "ALLA", "signs": []},
+{"symbol": "ASEFA", "signs": []},
+{"symbol": "CPT", "signs": []},
+{"symbol": "CRANE", "signs": []},
+{"symbol": "CTW", "signs": []},
+{"symbol": "FMT", "signs": []},
+{"symbol": "FTE", "signs": []},
+{"symbol": "HTECH", "signs": []},
+{"symbol": "KKC", "signs": ["SP", "NC"]},
+{"symbol": "MASTEC", "signs": []},
+{"symbol": "PCC", "signs": []},
+{"symbol": "PK", "signs": []},
+{"symbol": "PSP", "signs": []},
+{"symbol": "QTC", "signs": []},
+{"symbol": "SCI", "signs": ["CB"]},
+{"symbol": "SE", "signs": []},
+{"symbol": "SELIC", "signs": []},
+{"symbol": "SNC", "signs": []},
+{"symbol": "TCJ", "signs": []},
+{"symbol": "TPCS", "signs": []},
+{"symbol": "VARO", "signs": []},
+{"symbol": "UTP", "signs": []},
+{"symbol": "BCT", "signs": []},
+{"symbol": "CMAN", "signs": []},
+{"symbol": "GC", "signs": []},
+{"symbol": "GGC", "signs": []},
+{"symbol": "IVL", "signs": []},
+{"symbol": "NFC", "signs": ["SP"]},
+{"symbol": "PATO", "signs": []},
+{"symbol": "PMTA", "signs": []},
+{"symbol": "PTTGC", "signs": []},
+{"symbol": "SUTHA", "signs": []},
+{"symbol": "TPA", "signs": []},
+{"symbol": "UAC", "signs": []},
+{"symbol": "UP", "signs": []},
+{"symbol": "AJ", "signs": []},
+{"symbol": "ALUCON", "signs": []},
+{"symbol": "BGC", "signs": []},
+{"symbol": "CSC", "signs": []},
+{"symbol": "NEP", "signs": ["CB"]},
+{"symbol": "PJW", "signs": []},
+{"symbol": "PTL", "signs": []},
+{"symbol": "SCGP", "signs": []},
+{"symbol": "SFLEX", "signs": []},
+{"symbol": "SITHAI", "signs": []},
+{"symbol": "SLP", "signs": []},
+{"symbol": "SMPC", "signs": []},
+{"symbol": "SPACK", "signs": []},
+{"symbol": "TCOAT", "signs": []},
+{"symbol": "TFI", "signs": ["CB"]},
+{"symbol": "THIP", "signs": []},
+{"symbol": "TMD", "signs": []},
+{"symbol": "TOPP", "signs": []},
+{"symbol": "TPAC", "signs": []},
+{"symbol": "TPBI", "signs": []},
+{"symbol": "TPP", "signs": []},
+{"symbol": "2S", "signs": []},
+{"symbol": "AMC", "signs": []},
+{"symbol": "BSBM", "signs": []},
+{"symbol": "CEN", "signs": []},
+{"symbol": "CITY", "signs": ["CB"]},
+{"symbol": "CSP", "signs": []},
+{"symbol": "GJS", "signs": ["CB"]},
+{"symbol": "GSTEEL", "signs": ["SP", "NC"]},
+{"symbol": "INOX", "signs": []},
+{"symbol": "LHK", "signs": []},
+{"symbol": "MCS", "signs": []},
+{"symbol": "MILL", "signs": ["CB", "CS"]},
+{"symbol": "PAP", "signs": []},
+{"symbol": "PERM", "signs": ["CB"]},
+{"symbol": "SAM", "signs": ["CS"]},
+{"symbol": "SMIT", "signs": []},
+{"symbol": "SSSC", "signs": []},
+{"symbol": "TGPRO", "signs": []},
+{"symbol": "THE", "signs": []},
+{"symbol": "TMT", "signs": []},
+{"symbol": "TSTH", "signs": []},
+{"symbol": "TWP", "signs": []},
+{"symbol": "TYCN", "signs": []},
+{"symbol": "CCP", "signs": []},
+{"symbol": "DCC", "signs": []},
+{"symbol": "DCON", "signs": []},
+{"symbol": "DRT", "signs": []},
+{"symbol": "EPG", "signs": []},
+{"symbol": "GEL", "signs": ["CB"]},
+{"symbol": "PPP", "signs": []},
+{"symbol": "Q-CON", "signs": []},
+{"symbol": "SCC", "signs": []},
+{"symbol": "SCCC", "signs": []},
+{"symbol": "SCGD", "signs": []},
+{"symbol": "SCP", "signs": []},
+{"symbol": "SKN", "signs": []},
+{"symbol": "STECH", "signs": []},
+{"symbol": "TASCO", "signs": []},
+{"symbol": "TOA", "signs": []},
+{"symbol": "TPIPL", "signs": []},
+{"symbol": "UMI", "signs": []},
+{"symbol": "VNG", "signs": []},
+{"symbol": "WIIK", "signs": []},
+{"symbol": "WINDOW", "signs": []},
+{"symbol": "A", "signs": ["CB"]},
+{"symbol": "A5", "signs": []},
+{"symbol": "AKS", "signs": ["CB", "CS"]},
+{"symbol": "AMATA", "signs": []},
+{"symbol": "AMATAV", "signs": []},
+{"symbol": "ANAN", "signs": []},
+{"symbol": "AP", "signs": []},
+{"symbol": "ASW", "signs": []},
+{"symbol": "AWC", "signs": []},
+{"symbol": "BLAND", "signs": []},
+{"symbol": "BRI", "signs": []},
+{"symbol": "BROCK", "signs": ["CB"]},
+{"symbol": "CGD", "signs": []},
+{"symbol": "CI", "signs": []},
+{"symbol": "CMC", "signs": []},
+{"symbol": "CPN", "signs": []},
+{"symbol": "ESTAR", "signs": []},
+{"symbol": "EVER", "signs": ["CB"]},
+{"symbol": "FPT", "signs": []},
+{"symbol": "GLAND", "signs": ["SP"]},
+{"symbol": "J", "signs": []},
+{"symbol": "JCK", "signs": []},
+{"symbol": "KC", "signs": ["CB"]},
+{"symbol": "KUN", "signs": []},
+{"symbol": "LALIN", "signs": []},
+{"symbol": "LH", "signs": []},
+{"symbol": "LPN", "signs": []},
+{"symbol": "MBK", "signs": []},
+{"symbol": "MJD", "signs": []},
+{"symbol": "MK", "signs": []},
+{"symbol": "NCH", "signs": []},
+{"symbol": "NNCL", "signs": []},
+{"symbol": "NOBLE", "signs": []},
+{"symbol": "NVD", "signs": []},
+{"symbol": "ORI", "signs": []},
+{"symbol": "ORN", "signs": []},
+{"symbol": "PEACE", "signs": []},
+{"symbol": "PF", "signs": []},
+{"symbol": "PIN", "signs": []},
+{"symbol": "PLAT", "signs": []},
+{"symbol": "PRECHA", "signs": ["CB"]},
+{"symbol": "PRIN", "signs": []},
+{"symbol": "PROUD", "signs": []},
+{"symbol": "PSH", "signs": []},
+{"symbol": "QH", "signs": []},
+{"symbol": "RABBIT", "signs": []},
+{"symbol": "RICHY", "signs": []},
+{"symbol": "RML", "signs": ["CB"]},
+{"symbol": "ROJNA", "signs": []},
+{"symbol": "S", "signs": []},
+{"symbol": "SA", "signs": []},
+{"symbol": "SAMCO", "signs": []},
+{"symbol": "SC", "signs": []},
+{"symbol": "SENA", "signs": []},
+{"symbol": "SIRI", "signs": []},
+{"symbol": "SPALI", "signs": []},
+{"symbol": "STELLA", "signs": ["CB"]},
+{"symbol": "UV", "signs": []},
+{"symbol": "WHA", "signs": []},
+{"symbol": "WIN", "signs": []},
+{"symbol": "AIMCG", "signs": []},
+{"symbol": "AIMIRT", "signs": []},
+{"symbol": "ALLY", "signs": []},
+{"symbol": "AMATAR", "signs": []},
+{"symbol": "AXTRART", "signs": []},
+{"symbol": "B-WORK", "signs": []},
+{"symbol": "BAREIT", "signs": []},
+{"symbol": "BOFFICE", "signs": []},
+{"symbol": "CPNCG", "signs": []},
+{"symbol": "CPNREIT", "signs": []},
+{"symbol": "CPTREIT", "signs": []},
+{"symbol": "CTARAF", "signs": []},
+{"symbol": "DREIT", "signs": []},
+{"symbol": "FTREIT", "signs": []},
+{"symbol": "FUTURERT", "signs": []},
+{"symbol": "GAHREIT", "signs": []},
+{"symbol": "GROREIT", "signs": []},
+{"symbol": "GVREIT", "signs": []},
+{"symbol": "HPF", "signs": []},
+{"symbol": "HYDROGEN", "signs": []},
+{"symbol": "IMPACT", "signs": []},
+{"symbol": "INETREIT", "signs": []},
+{"symbol": "ISSARA", "signs": []},
+{"symbol": "KPNREIT", "signs": []},
+{"symbol": "KTBSTMR", "signs": []},
+{"symbol": "LHHOTEL", "signs": []},
+{"symbol": "LHRREIT", "signs": []},
+{"symbol": "LHSC", "signs": []},
+{"symbol": "LUXF", "signs": []},
+{"symbol": "M-PAT", "signs": []},
+{"symbol": "M-STOR", "signs": []},
+{"symbol": "MII", "signs": []},
+{"symbol": "MIPF", "signs": []},
+{"symbol": "MJLF", "signs": []},
+{"symbol": "MNIT", "signs": []},
+{"symbol": "MNIT2", "signs": []},
+{"symbol": "MNRF", "signs": []},
+{"symbol": "POPF", "signs": []},
+{"symbol": "PROSPECT", "signs": []},
+{"symbol": "QHBREIT", "signs": []},
+{"symbol": "QHHRREIT", "signs": []},
+{"symbol": "QHOP", "signs": []},
+{"symbol": "SIRIPRT", "signs": []},
+{"symbol": "SPRIME", "signs": []},
+{"symbol": "SRIPANWA", "signs": []},
+{"symbol": "SSPF", "signs": []},
+{"symbol": "SSTRT", "signs": []},
+{"symbol": "TIF1", "signs": []},
+{"symbol": "TLHPF", "signs": []},
+{"symbol": "TNPF", "signs": []},
+{"symbol": "TPRIME", "signs": []},
+{"symbol": "TTLPF", "signs": []},
+{"symbol": "TU-PF", "signs": []},
+{"symbol": "WHABT", "signs": []},
+{"symbol": "WHAIR", "signs": []},
+{"symbol": "WHART", "signs": []},
+{"symbol": "APCS", "signs": []},
+{"symbol": "BJCHI", "signs": []},
+{"symbol": "BKD", "signs": []},
+{"symbol": "CIVIL", "signs": []},
+{"symbol": "CK", "signs": []},
+{"symbol": "CNT", "signs": []},
+{"symbol": "DEMCO", "signs": []},
+{"symbol": "EMC", "signs": ["CB"]},
+{"symbol": "ITD", "signs": ["CB", "CS"]},
+{"symbol": "JR", "signs": []},
+{"symbol": "NL", "signs": []},
+{"symbol": "NWR", "signs": ["SP", "NC"]},
+{"symbol": "PLE", "signs": []},
+{"symbol": "PREB", "signs": []},
+{"symbol": "PYLON", "signs": []},
+{"symbol": "RT", "signs": []},
+{"symbol": "SEAFCO", "signs": []},
+{"symbol": "SOLAR", "signs": ["CB"]},
+{"symbol": "SQ", "signs": []},
+{"symbol": "SRICHA", "signs": []},
+{"symbol": "STECON", "signs": []},
+{"symbol": "STI", "signs": []},
+{"symbol": "STPI", "signs": []},
+{"symbol": "SYNTEC", "signs": []},
+{"symbol": "TEAMG", "signs": []},
+{"symbol": "TEKA", "signs": []},
+{"symbol": "TPOLY", "signs": []},
+{"symbol": "TRC", "signs": ["CB"]},
+{"symbol": "TRITN", "signs": ["CB"]},
+{"symbol": "TTCL", "signs": ["CB", "CS"]},
+{"symbol": "UNIQ", "signs": []},
+{"symbol": "WGE", "signs": []},
+{"symbol": "ACC", "signs": []},
+{"symbol": "ACE", "signs": []},
+{"symbol": "AE", "signs": ["CB"]},
+{"symbol": "AGE", "signs": []},
+{"symbol": "AI", "signs": []},
+{"symbol": "AIE", "signs": []},
+{"symbol": "ATLAS", "signs": []},
+{"symbol": "BAFS", "signs": []},
+{"symbol": "BANPU", "signs": []},
+{"symbol": "BBGI", "signs": []},
+{"symbol": "BCP", "signs": []},
+{"symbol": "BCPG", "signs": []},
+{"symbol": "BGRIM", "signs": []},
+{"symbol": "BIOTEC", "signs": []},
+{"symbol": "BPP", "signs": []},
+{"symbol": "BRRGIF", "signs": []},
+{"symbol": "CKP", "signs": []},
+{"symbol": "CV", "signs": ["SP", "NC"]},
+{"symbol": "EA", "signs": []},
+{"symbol": "EASTW", "signs": []},
+{"symbol": "EGATIF", "signs": []},
+{"symbol": "EGCO", "signs": []},
+{"symbol": "EP", "signs": []},
+{"symbol": "ETC", "signs": []},
+{"symbol": "GPSC", "signs": []},
+{"symbol": "GREEN", "signs": []},
+{"symbol": "GULF", "signs": []},
+{"symbol": "GUNKUL", "signs": []},
+{"symbol": "IRPC", "signs": []},
+{"symbol": "KBSPIF", "signs": []},
+{"symbol": "LANNA", "signs": []},
+{"symbol": "MDX", "signs": []},
+{"symbol": "NOVA", "signs": []},
+{"symbol": "OR", "signs": []},
+{"symbol": "PRIME", "signs": []},
+{"symbol": "PTG", "signs": []},
+{"symbol": "PTT", "signs": []},
+{"symbol": "PTTEP", "signs": []},
+{"symbol": "RATCH", "signs": []},
+{"symbol": "RPC", "signs": []},
+{"symbol": "SCG", "signs": []},
+{"symbol": "SCN", "signs": []},
+{"symbol": "SEAOIL", "signs": []},
+{"symbol": "SGP", "signs": []},
+{"symbol": "SKE", "signs": []},
+{"symbol": "SPCG", "signs": []},
+{"symbol": "SPRC", "signs": []},
+{"symbol": "SSP", "signs": []},
+{"symbol": "SUPER", "signs": []},
+{"symbol": "SUPEREIF", "signs": []},
+{"symbol": "SUSCO", "signs": []},
+{"symbol": "TAE", "signs": []},
+{"symbol": "TCC", "signs": []},
+{"symbol": "TGE", "signs": []},
+{"symbol": "TOP", "signs": []},
+{"symbol": "TPIPP", "signs": []},
+{"symbol": "TSE", "signs": []},
+{"symbol": "TTW", "signs": []},
+{"symbol": "UBE", "signs": []},
+{"symbol": "WHAUP", "signs": []},
+{"symbol": "WP", "signs": []},
+{"symbol": "ADVICE", "signs": []},
+{"symbol": "B52", "signs": ["CB"]},
+{"symbol": "BEAUTY", "signs": []},
+{"symbol": "BIG", "signs": []},
+{"symbol": "BJC", "signs": []},
+{"symbol": "COM7", "signs": []},
+{"symbol": "CPALL", "signs": []},
+{"symbol": "CPAXT", "signs": []},
+{"symbol": "CPW", "signs": []},
+{"symbol": "CRC", "signs": []},
+{"symbol": "CSS", "signs": []},
+{"symbol": "DOHOME", "signs": []},
+{"symbol": "FN", "signs": []},
+{"symbol": "GLOBAL", "signs": []},
+{"symbol": "HMPRO", "signs": []},
+{"symbol": "ICC", "signs": []},
+{"symbol": "ILM", "signs": []},
+{"symbol": "IT", "signs": []},
+{"symbol": "KAMART", "signs": []},
+{"symbol": "LOXLEY", "signs": []},
+{"symbol": "MC", "signs": []},
+{"symbol": "MEGA", "signs": []},
+{"symbol": "MIDA", "signs": []},
+{"symbol": "MOSHI", "signs": []},
+{"symbol": "MRDIYT", "signs": []},
+{"symbol": "RS", "signs": ["CB"]},
+{"symbol": "RSP", "signs": []},
+{"symbol": "SCM", "signs": []},
+{"symbol": "SINGER", "signs": []},
+{"symbol": "SPC", "signs": []},
+{"symbol": "SPI", "signs": []},
+{"symbol": "SVT", "signs": []},
+{"symbol": "TAN", "signs": []},
+{"symbol": "WSOL", "signs": ["CB"]},
+{"symbol": "AHC", "signs": []},
+{"symbol": "BCH", "signs": []},
+{"symbol": "BDMS", "signs": []},
+{"symbol": "BH", "signs": []},
+{"symbol": "BKGI", "signs": []},
+{"symbol": "CHG", "signs": []},
+{"symbol": "CMR", "signs": []},
+{"symbol": "EKH", "signs": []},
+{"symbol": "KDH", "signs": []},
+{"symbol": "KLINIQ", "signs": []},
+{"symbol": "LPH", "signs": []},
+{"symbol": "M-CHAI", "signs": []},
+{"symbol": "MASTER", "signs": []},
+{"symbol": "MEDEZE", "signs": []},
+{"symbol": "NEW", "signs": []},
+{"symbol": "NKT", "signs": []},
+{"symbol": "NTV", "signs": []},
+{"symbol": "PHG", "signs": []},
+{"symbol": "PR9", "signs": []},
+{"symbol": "PRINC", "signs": []},
+{"symbol": "RAM", "signs": []},
+{"symbol": "RJH", "signs": []},
+{"symbol": "RPH", "signs": []},
+{"symbol": "SAFE", "signs": []},
+{"symbol": "SKR", "signs": []},
+{"symbol": "THG", "signs": []},
+{"symbol": "VIBHA", "signs": []},
+{"symbol": "VIH", "signs": []},
+{"symbol": "WPH", "signs": []},
+{"symbol": "AMARIN", "signs": ["CF"]},
+{"symbol": "AQUA", "signs": []},
+{"symbol": "AS", "signs": []},
+{"symbol": "BEC", "signs": []},
+{"symbol": "FE", "signs": []},
+{"symbol": "GPI", "signs": []},
+{"symbol": "GRAMMY", "signs": []},
+{"symbol": "MAJOR", "signs": []},
+{"symbol": "MATCH", "signs": []},
+{"symbol": "MATI", "signs": []},
+{"symbol": "MCOT", "signs": []},
+{"symbol": "MONO", "signs": ["CB"]},
+{"symbol": "NATION", "signs": ["CB"]},
+{"symbol": "ONEE", "signs": []},
+{"symbol": "PLANB", "signs": []},
+{"symbol": "PRAKIT", "signs": []},
+{"symbol": "PTECH", "signs": []},
+{"symbol": "SE-ED", "signs": []},
+{"symbol": "TKS", "signs": []},
+{"symbol": "VGI", "signs": []},
+{"symbol": "WORK", "signs": []},
+{"symbol": "ZAA", "signs": []},
+{"symbol": "BWG", "signs": []},
+{"symbol": "GENCO", "signs": ["CB"]},
+{"symbol": "PRTR", "signs": []},
+{"symbol": "SISB", "signs": []},
+{"symbol": "SO", "signs": []},
+{"symbol": "WAVE", "signs": ["CB", "CS"]},
+{"symbol": "ASIA", "signs": []},
+{"symbol": "BEYOND", "signs": []},
+{"symbol": "CENTEL", "signs": []},
+{"symbol": "CSR", "signs": []},
+{"symbol": "DUSIT", "signs": []},
+{"symbol": "ERW", "signs": []},
+{"symbol": "GRAND", "signs": ["CB"]},
+{"symbol": "LRH", "signs": ["SP"]},
+{"symbol": "MANRIN", "signs": []},
+{"symbol": "MINT", "signs": []},
+{"symbol": "OHTL", "signs": []},
+{"symbol": "ONSENS", "signs": []},
+{"symbol": "ROH", "signs": ["SP"]},
+{"symbol": "SHANG", "signs": []},
+{"symbol": "SHR", "signs": []},
+{"symbol": "SPA", "signs": []},
+{"symbol": "VRANDA", "signs": []},
+{"symbol": "AAV", "signs": []},
+{"symbol": "ANI", "signs": []},
+{"symbol": "AOT", "signs": []},
+{"symbol": "ASIMAR", "signs": []},
+{"symbol": "B", "signs": []},
+{"symbol": "BA", "signs": []},
+{"symbol": "BEM", "signs": []},
+{"symbol": "BTS", "signs": []},
+{"symbol": "BTSGIF", "signs": []},
+{"symbol": "DMT", "signs": []},
+{"symbol": "ETL", "signs": []},
+{"symbol": "III", "signs": []},
+{"symbol": "KIAT", "signs": []},
+{"symbol": "KWC", "signs": []},
+{"symbol": "MENA", "signs": []},
+{"symbol": "NYT", "signs": []},
+{"symbol": "PORT", "signs": []},
+{"symbol": "PRM", "signs": []},
+{"symbol": "PSL", "signs": []},
+{"symbol": "RCL", "signs": []},
+{"symbol": "SAV", "signs": []},
+{"symbol": "SINO", "signs": []},
+{"symbol": "SJWD", "signs": []},
+{"symbol": "TFFIF", "signs": []},
+{"symbol": "THAI", "signs": []},
+{"symbol": "TSTE", "signs": []},
+{"symbol": "TTA", "signs": []},
+{"symbol": "WICE", "signs": []},
+{"symbol": "CCET", "signs": []},
+{"symbol": "DELTA", "signs": []},
+{"symbol": "HANA", "signs": []},
+{"symbol": "KCE", "signs": []},
+{"symbol": "METCO", "signs": []},
+{"symbol": "SMT", "signs": []},
+{"symbol": "SVI", "signs": []},
+{"symbol": "TEAM", "signs": []},
+{"symbol": "3BBIF", "signs": []},
+{"symbol": "ADVANC", "signs": []},
+{"symbol": "AIT", "signs": []},
+{"symbol": "ALT", "signs": []},
+{"symbol": "AMR", "signs": []},
+{"symbol": "BBIK", "signs": []},
+{"symbol": "BLISS", "signs": ["SP", "NC", "NP"]},
+{"symbol": "DIF", "signs": []},
+{"symbol": "DITTO", "signs": []},
+{"symbol": "DTCENT", "signs": []},
+{"symbol": "FORTH", "signs": []},
+{"symbol": "GABLE", "signs": []},
+{"symbol": "HUMAN", "signs": []},
+{"symbol": "ICN", "signs": []},
+{"symbol": "ILINK", "signs": []},
+{"symbol": "INET", "signs": []},
+{"symbol": "INSET", "signs": []},
+{"symbol": "ITEL", "signs": []},
+{"symbol": "JAS", "signs": []},
+{"symbol": "JMART", "signs": []},
+{"symbol": "JTS", "signs": []},
+{"symbol": "MFEC", "signs": []},
+{"symbol": "MSC", "signs": []},
+{"symbol": "PT", "signs": []},
+{"symbol": "ROCTEC", "signs": []},
+{"symbol": "SAMART", "signs": []},
+{"symbol": "SAMTEL", "signs": []},
+{"symbol": "SDC", "signs": ["CB"]},
+{"symbol": "SIS", "signs": []},
+{"symbol": "SKY", "signs": []},
+{"symbol": "SPREME", "signs": []},
+{"symbol": "SVOA", "signs": []},
+{"symbol": "SYMC", "signs": []},
+{"symbol": "SYNEX", "signs": []},
+{"symbol": "THCOM", "signs": []},
+{"symbol": "TKC", "signs": []},
+{"symbol": "TRUE", "signs": []},
+{"symbol": "TWZ", "signs": []},
+{"symbol": "XYZ", "signs": ["CB"]},
+{"symbol": "APO", "signs": []},
+{"symbol": "AU", "signs": []},
+{"symbol": "CFARM", "signs": []},
+{"symbol": "KASET", "signs": []},
+{"symbol": "MAGURO", "signs": []},
+{"symbol": "MUD", "signs": []},
+{"symbol": "NTF", "signs": []},
+{"symbol": "NTSC", "signs": []},
+{"symbol": "QDC", "signs": ["CB"]},
+{"symbol": "TACC", "signs": []},
+{"symbol": "TMILL", "signs": []},
+{"symbol": "WINNER", "signs": []},
+{"symbol": "XO", "signs": []},
+{"symbol": "88TH", "signs": []},
+{"symbol": "BGT", "signs": []},
+{"symbol": "DOD", "signs": []},
+{"symbol": "ECF", "signs": ["CB"]},
+{"symbol": "EFORL", "signs": ["CB"]},
+{"symbol": "EURO", "signs": []},
+{"symbol": "HPT", "signs": []},
+{"symbol": "ITTHI", "signs": []},
+{"symbol": "JSP", "signs": []},
+{"symbol": "JUBILE", "signs": []},
+{"symbol": "LTS", "signs": []},
+{"symbol": "MGI", "signs": []},
+{"symbol": "MOONG", "signs": []},
+{"symbol": "NPK", "signs": []},
+{"symbol": "NUT", "signs": []},
+{"symbol": "SEI", "signs": []},
+{"symbol": "SKIN", "signs": []},
+{"symbol": "SMD100", "signs": []},
+{"symbol": "TM", "signs": []},
+{"symbol": "WARRIX", "signs": []},
+{"symbol": "WINMED", "signs": []},
+{"symbol": "ACAP", "signs": ["SP", "NC", "NP"]},
+{"symbol": "AF", "signs": []},
+{"symbol": "AIRA", "signs": []},
+{"symbol": "ASN", "signs": []},
+{"symbol": "BTC", "signs": []},
+{"symbol": "GCAP", "signs": []},
+{"symbol": "KCC", "signs": []},
+{"symbol": "LIT", "signs": []},
+{"symbol": "MITSIB", "signs": []},
+{"symbol": "SGF", "signs": []},
+{"symbol": "TQR", "signs": []},
+{"symbol": "ADB", "signs": []},
+{"symbol": "BM", "signs": []},
+{"symbol": "BPS", "signs": []},
+{"symbol": "CHO", "signs": ["CB", "CS"]},
+{"symbol": "CHOW", "signs": []},
+{"symbol": "CIG", "signs": ["CB"]},
+{"symbol": "COLOR", "signs": []},
+{"symbol": "CPR", "signs": []},
+{"symbol": "FPI", "signs": []},
+{"symbol": "GTB", "signs": []},
+{"symbol": "HARN", "signs": []},
+{"symbol": "KCM", "signs": []},
+{"symbol": "KJL", "signs": []},
+{"symbol": "KUMWEL", "signs": []},
+{"symbol": "KWM", "signs": []},
+{"symbol": "MBAX", "signs": []},
+{"symbol": "MGT", "signs": []},
+{"symbol": "MTW", "signs": []},
+{"symbol": "NDR", "signs": []},
+{"symbol": "PACO", "signs": []},
+{"symbol": "PDG", "signs": []},
+{"symbol": "PHOL", "signs": []},
+{"symbol": "PIMO", "signs": []},
+{"symbol": "PMC", "signs": []},
+{"symbol": "PPM", "signs": []},
+{"symbol": "PRAPAT", "signs": []},
+{"symbol": "RWI", "signs": []},
+{"symbol": "SAF", "signs": []},
+{"symbol": "SALEE", "signs": []},
+{"symbol": "SANKO", "signs": []},
+{"symbol": "SCL", "signs": []},
+{"symbol": "SFT", "signs": []},
+{"symbol": "STP", "signs": []},
+{"symbol": "SWC", "signs": []},
+{"symbol": "TATG", "signs": []},
+{"symbol": "TMC", "signs": []},
+{"symbol": "TMI", "signs": []},
+{"symbol": "TMW", "signs": []},
+{"symbol": "TPLAS", "signs": []},
+{"symbol": "TRT", "signs": []},
+{"symbol": "TRV", "signs": []},
+{"symbol": "UBIS", "signs": []},
+{"symbol": "UEC", "signs": []},
+{"symbol": "UKEM", "signs": []},
+{"symbol": "UREKA", "signs": []},
+{"symbol": "YUASA", "signs": []},
+{"symbol": "ZIGA", "signs": []},
+{"symbol": "ARIN", "signs": []},
+{"symbol": "ARROW", "signs": []},
+{"symbol": "BC", "signs": []},
+{"symbol": "BKA", "signs": []},
+{"symbol": "BLESS", "signs": []},
+{"symbol": "BSM", "signs": []},
+{"symbol": "BTW", "signs": []},
+{"symbol": "CAZ", "signs": []},
+{"symbol": "CHEWA", "signs": []},
+{"symbol": "CPANEL", "signs": []},
+{"symbol": "CRD", "signs": []},
+{"symbol": "DHOUSE", "signs": []},
+{"symbol": "DIMET", "signs": ["CB", "CS"]},
+{"symbol": "DPAINT", "signs": []},
+{"symbol": "EMPIRE", "signs": []},
+{"symbol": "FLOYD", "signs": []},
+{"symbol": "HYDRO", "signs": ["CB", "NP"]},
+{"symbol": "IND", "signs": []},
+{"symbol": "JAK", "signs": []},
+{"symbol": "K", "signs": []},
+{"symbol": "META", "signs": ["CB"]},
+{"symbol": "MMM", "signs": []},
+{"symbol": "PANEL", "signs": []},
+{"symbol": "PPS", "signs": []},
+{"symbol": "PRI", "signs": []},
+{"symbol": "PROS", "signs": []},
+{"symbol": "PSGC", "signs": []},
+{"symbol": "QTCG", "signs": ["CB"]},
+{"symbol": "SENX", "signs": []},
+{"symbol": "SK", "signs": []},
+{"symbol": "SMART", "signs": []},
+{"symbol": "STC", "signs": []},
+{"symbol": "STX", "signs": []},
+{"symbol": "SVR", "signs": []},
+{"symbol": "TAPAC", "signs": ["SP", "NC"]},
+{"symbol": "THANA", "signs": []},
+{"symbol": "TIGER", "signs": []},
+{"symbol": "TITLE", "signs": []},
+{"symbol": "WELL", "signs": ["SP", "NC", "NP"]},
+{"symbol": "YONG", "signs": []},
+{"symbol": "ABM", "signs": []},
+{"symbol": "ALPHAX", "signs": []},
+{"symbol": "GTV", "signs": ["CB"]},
+{"symbol": "PSTC", "signs": []},
+{"symbol": "PTC", "signs": []},
+{"symbol": "SAAM", "signs": []},
+{"symbol": "SR", "signs": []},
+{"symbol": "STOWER", "signs": ["CB"]},
+{"symbol": "TAKUNI", "signs": []},
+{"symbol": "TPCH", "signs": []},
+{"symbol": "UMS", "signs": ["SP", "CB"]},
+{"symbol": "ADD", "signs": []},
+{"symbol": "AKP", "signs": []},
+{"symbol": "AMA", "signs": []},
+{"symbol": "AMARC", "signs": []},
+{"symbol": "ARIP", "signs": []},
+{"symbol": "ATP30", "signs": []},
+{"symbol": "AUCT", "signs": []},
+{"symbol": "BIS", "signs": []},
+{"symbol": "BOL", "signs": []},
+{"symbol": "CEYE", "signs": []},
+{"symbol": "CHIC", "signs": []},
+{"symbol": "CMO", "signs": ["CB", "CS"]},
+{"symbol": "D", "signs": []},
+{"symbol": "DEXON", "signs": []},
+{"symbol": "DV8", "signs": []},
+{"symbol": "ETE", "signs": []},
+{"symbol": "FSMART", "signs": []},
+{"symbol": "FVC", "signs": []},
+{"symbol": "GFC", "signs": []},
+{"symbol": "GLORY", "signs": []},
+{"symbol": "HANN", "signs": []},
+{"symbol": "HEALTH", "signs": ["CB"]},
+{"symbol": "HL", "signs": []},
+{"symbol": "IMH", "signs": []},
+{"symbol": "IROYAL", "signs": []},
+{"symbol": "IVF", "signs": []},
+{"symbol": "JPARK", "signs": []},
+{"symbol": "KGEN", "signs": ["CB"]},
+{"symbol": "KK", "signs": []},
+{"symbol": "KOOL", "signs": []},
+{"symbol": "KTMS", "signs": []},
+{"symbol": "LDC", "signs": []},
+{"symbol": "LEO", "signs": []},
+{"symbol": "LTMH", "signs": []},
+{"symbol": "MCA", "signs": []},
+{"symbol": "MEB", "signs": []},
+{"symbol": "MORE", "signs": []},
+{"symbol": "MOTHER", "signs": []},
+{"symbol": "MPJ", "signs": []},
+{"symbol": "MVP", "signs": ["CB", "CS"]},
+{"symbol": "NCL", "signs": ["CB"]},
+{"symbol": "NCP", "signs": []},
+{"symbol": "PEER", "signs": ["CB"]},
+{"symbol": "PICO", "signs": ["CF"]},
+{"symbol": "PLT", "signs": []},
+{"symbol": "QLT", "signs": []},
+{"symbol": "RP", "signs": []},
+{"symbol": "SONIC", "signs": []},
+{"symbol": "SPTX", "signs": ["CB"]},
+{"symbol": "THMUI", "signs": []},
+{"symbol": "TNDT", "signs": ["CB"]},
+{"symbol": "TNH", "signs": []},
+{"symbol": "TNP", "signs": []},
+{"symbol": "TPL", "signs": []},
+{"symbol": "TRP", "signs": []},
+{"symbol": "TURTLE", "signs": []},
+{"symbol": "TVDH", "signs": []},
+{"symbol": "TVT", "signs": []},
+{"symbol": "UBA", "signs": []},
+{"symbol": "VL", "signs": []},
+{"symbol": "VS", "signs": ["CB"]},
+{"symbol": "WASH", "signs": []},
+{"symbol": "YGG", "signs": ["CB"]},
+{"symbol": "APP", "signs": []},
+{"symbol": "BE8", "signs": []},
+{"symbol": "BVG", "signs": []},
+{"symbol": "COMAN", "signs": ["CS"]},
+{"symbol": "I2", "signs": []},
+{"symbol": "IDG", "signs": []},
+{"symbol": "IIG", "signs": []},
+{"symbol": "IRCP", "signs": []},
+{"symbol": "ITNS", "signs": []},
+{"symbol": "NAT", "signs": []},
+{"symbol": "NETBAY", "signs": []},
+{"symbol": "PIS", "signs": []},
+{"symbol": "PLANET", "signs": ["CB"]},
+{"symbol": "PROEN", "signs": []},
+{"symbol": "READY", "signs": []},
+{"symbol": "SECURE", "signs": []},
+{"symbol": "SICT", "signs": []},
+{"symbol": "SIMAT", "signs": []},
+{"symbol": "SPVI", "signs": []},
+{"symbol": "SRS", "signs": []},
+{"symbol": "TBN", "signs": []},
+{"symbol": "TERA", "signs": []},
+{"symbol": "TPS", "signs": []},
+{"symbol": "VCOM", "signs": []}
 ]

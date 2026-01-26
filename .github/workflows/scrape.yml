@@ -1,0 +1,35 @@
+name: Scrape SET Signs
+
+on:
+  schedule:
+    - cron: '0 11 * * *'  # 18:00 Thai time (11:00 UTC)
+  workflow_dispatch:  # Allows manual runs
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      
+      - name: Run scraper
+        env:
+          ZYTE_KEY: ${{ secrets.ZYTE_KEY }}
+        run: python scrape.py
+      
+      - name: Commit results
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add set_signs.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update SET signs data"
+          git push

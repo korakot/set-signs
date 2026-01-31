@@ -1,0 +1,45 @@
+name: Keepalive
+
+on:
+  schedule:
+    - cron: '13 0 * * 1'  # every Monday 00:13 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  keepalive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # need history for git log --since
+
+      - name: Decide whether keepalive is needed
+        id: decide
+        run: |
+          set -euo pipefail
+          if git log --since="45 days ago" -1 --pretty=format:%H | grep -q .; then
+            echo "needed=false" >> "$GITHUB_OUTPUT"
+            echo "Recent activity found; no keepalive."
+          else
+            echo "needed=true" >> "$GITHUB_OUTPUT"
+            echo "No activity in 45 days; will create keepalive commit."
+          fi
+
+      - name: Commit keepalive
+        if: steps.decide.outputs.needed == 'true'
+        run: |
+          set -euo pipefail
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+
+          # sync just in case
+          git pull --rebase
+
+          date -u +"%Y-%m-%d" > keepalive.txt
+          git add keepalive.txt
+          git commit -m "Keepalive"
+          git push

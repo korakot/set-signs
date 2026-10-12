@@ -311,7 +311,7 @@
 {"symbol": "WINDOW", "signs": []},
 {"symbol": "A", "signs": []},
 {"symbol": "A5", "signs": []},
-{"symbol": "AKS", "signs": ["SP", "NC"]},
+{"symbol": "AKS", "signs": ["NC"]},
 {"symbol": "AMATA", "signs": []},
 {"symbol": "AMATAV", "signs": []},
 {"symbol": "ANAN", "signs": []},

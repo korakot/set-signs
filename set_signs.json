@@ -696,7 +696,7 @@
 {"symbol": "SYMC", "signs": []},
 {"symbol": "SYNEX", "signs": []},
 {"symbol": "TKC", "signs": []},
-{"symbol": "TL", "signs": ["CB"]},
+{"symbol": "TL", "signs": ["CB", "XR"]},
 {"symbol": "TRUE", "signs": []},
 {"symbol": "TWZ", "signs": ["CB"]},
 {"symbol": "XYZ", "signs": ["CB"]},
